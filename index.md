@@ -76,6 +76,8 @@ Shu Zhang received his PhD degree in Computer Application Technologies from Ocea
 
 ### Support or Contact
 
+About me in Chinese can be found [here](http://it.ouc.edu.cn/2019/0527/c16104a248647/page.htm).
+
 You can use the [editor on GitHub](https://github.com/jackyspeed/aboutzhangshu/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
