@@ -47,6 +47,7 @@ Shu Zhang received his PhD degree in Computer Application Technologies from Ocea
 
 #### As first / correspondence author:
 
+- **S. Zhang**, H. Yu, T. Wang, J. Dong, and T. D. Pham, “Linearly Augmented Real-Time 4D Expressional Face Capture,” Inf. Sci., in publishing 2020.
 - **S. Zhang**, H. Yu, T. Wang, and J. Dong, “Augmented visual feature modelling for matching in low-visibility based on cycle-labelling of Superpixel Flow,” Knowledge-Based Syst., p. 105699, 2020,
 - T Wang, **S. Zhang***, L. Liu, G. Wu, and J. Dong, “Automatic Facial Paralysis Evaluation Augmented by A Cascaded Encoder Network Structure,” IEEE Access, vol. 7, pp. 135621–135631, 2019。
 - **S. Zhang**, T. Wang, Y. Peng, and J. Dong, “A Hierarchically Trained Generative Network for Robust Facial Symmetrization,” Technol. Heal. Care, vol. 27, pp. 217–227, 2019.
