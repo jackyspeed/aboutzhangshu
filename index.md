@@ -7,6 +7,8 @@ layout: default
 
 Shu Zhang received his PhD degree in Computer Application Technologies from Ocean University of China, Qingdao, China. He was previously a research associate at the University of Portsmouth, Portsmouth, UK. He is currently a Lecturer with Ocean University of China, Qingdao, China. His main research interests include computer vision, feature analysis, 3D reconstruction, video processing, underwater image analysis, and deep learning among others. He has been serving as the program committee members or section chairs for a range of international academic conferences. He is a member of the China Computer Federation (CCF). 
 
+About me in Chinese can be found [here](http://it.ouc.edu.cn/2019/0527/c16104a248647/page.htm).
+
 ---
 
 ### Working Experience and Education Background
@@ -74,11 +76,9 @@ Shu Zhang received his PhD degree in Computer Application Technologies from Ocea
 ---
 
 
-### Support or Contact
+### Github Pages Supports
 
-About me in Chinese can be found [here](http://it.ouc.edu.cn/2019/0527/c16104a248647/page.htm).
-
-You can use the [editor on GitHub](https://github.com/jackyspeed/aboutzhangshu/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Editor on GitHub](https://github.com/jackyspeed/aboutzhangshu/edit/gh-pages/index.md)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
