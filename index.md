@@ -62,7 +62,7 @@ Shu Zhang received his PhD degree in Computer Application Technologies from Ocea
 #### As co-author:
 
 - J. Sun, H. Yu, G. Zhong, J. Dong, **S. Zhang**, and H.C. Yu, “Random shapley forests: cooperative game based random forests with consistency,” IEEE Trans. Cybern., 2020.
-- T. Chen, J. Dong, L. Qi, S. Zhang, X. Wang, and Q. Zhao, “Spatial-Temporal Skeleton Feature: An Unit-Level Feature for Temporal Action Proposal Generation,” in 2019 Smart World Congress, 2019.
+- T. Chen, J. Dong, L. Qi, **S. Zhang**, X. Wang, and Q. Zhao, “Spatial-Temporal Skeleton Feature: An Unit-Level Feature for Temporal Action Proposal Generation,” in 2019 Smart World Congress, 2019.
 - S. Han, X. Sun, J. Dong, **S. Zhang**, and Q. Li, “PhytoGAN: Unpaired Dead-to-Live Phytoplankton Translation,” in 2019 Smart World Congress, 2019.
 - H. Xv, X. Sun, J. Dong, **S. Zhang**, and Q. Li, “Multi-level Similarity Learning for Low-Shot Recognition,” in 2019 Smart World Congress, 2019.
 - J. Liu, T. Zhang, Y. Gao, **S. Zhang**, J. Sun, J. Dong, and H. Yu, “Dual Stage Augmented Colorful Texture Synthesis from Hand Sketch,” in Proceedings of the 25th International Conference on Automation & Computing, 2019.
