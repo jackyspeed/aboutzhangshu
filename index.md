@@ -7,20 +7,15 @@ layout: default
 
 Shu Zhang received his PhD degree in Computer Application Technologies from Ocean University of China, Qingdao, China. He was previously a research associate at the University of Portsmouth, Portsmouth, UK. He is currently a Lecturer with Ocean University of China, Qingdao, China. His main research interests include computer vision, feature analysis, 3D reconstruction, video processing, underwater image analysis, and deep learning among others. He has been serving as the program committee members or section chairs for a range of international academic conferences. He is a member of the China Computer Federation (CCF). 
 
-
-Email: zhangshu(at)ouc(dot)edu(dot)cn
-
-Address: Ocean University of China. 238 Songling Road, Qingdao, China.
-
 ---
 
 ### Working Experience and Education Background
 
-- 2016 – Now,   Ocean University of China, CN,    Lecturer.
-- 2016 – 2018,  University of Portsmouth, UK,     Research Associate / Postdoc.
-- 2014 – 2016,	University of Portsmouth, UK,     Joint PhD Training.
-- 2012 – 2017,	Ocean University of China, CN,    PhD.
-- 2011 – 2012,	Chinese Academy of Science, CN,   Research Assistant.
+- 2016 – Now,  Ocean University of China, CN,  Lecturer.
+- 2016 – 2018, University of Portsmouth, UK,   Research Associate / Postdoc.
+- 2014 – 2016, University of Portsmouth, UK,   Joint PhD Training.
+- 2012 – 2017, Ocean University of China, CN,  PhD.
+- 2011 – 2012, Chinese Academy of Science, CN, Research Assistant.
 
 ---
 
@@ -34,17 +29,17 @@ Address: Ocean University of China. 238 Songling Road, Qingdao, China.
 
 ### Fundings
 
-#### Principal investigator:
+#### As principal investigator:
 
  - 2020.01 – 2022.12,  Deep Learning and Knowledge Graph Augmented Underwater 3D Scene Perception, National Natural Science Foundation of China, China.
  - 2019.05 – 2021.04,  Deep Learning and SLAM enhanced Human-Robot Interaction for Underwater ROV Control in Virtual Reality,  China Postdoctoral Science Foundation, China.
 
-#### Participant:
+#### As participant:
 
-- National Major Scientific Instruments and Equipments Development Project of National Natural Science Foundation of China, China.
-- Shandong Provincial Natural Science Foundation, China.
-- The Engineering and Physical Sciences Research Council (EPSRC), UK.
-- EU FP7 Framework Programme, EU.
+- Research in Underwater 3D reconstruction, funded by the National Major Scientific Instruments and Equipments Development Project of National Natural Science Foundation of China, China.
+- Research in VR enhanced Human-Robot Interaction for underwater ROV, funded by the Shandong Provincial Natural Science Foundation, China.
+- Research in 4D face capture, funded by the Engineering and Physical Sciences Research Council (EPSRC), UK.
+- Research in Robot aided rehabilitation, funded by the EU FP7 Framework Programme, EU.
 
 ---
 
