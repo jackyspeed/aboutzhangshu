@@ -9,7 +9,9 @@ title: Shu Zhang
 logo: /assets/img/head.png
 # description: About Shu Zhang
 description: Email > zhangshu(at)ouc(dot)edu(dot)cn
-show_downloads: false
+site.show_downloads: false
+site.github.is_project_page: false
+site.github.is_user_page: false
 google_analytics:
 theme: jekyll-theme-minimal
 
