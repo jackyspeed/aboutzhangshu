@@ -2,6 +2,9 @@
 layout: default
 ---
 
+---
+test_var: test text in here.
+---
 
 ## Welcome to Shu ZHANG's Pages
 
