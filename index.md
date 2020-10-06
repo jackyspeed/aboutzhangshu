@@ -7,7 +7,7 @@ layout: default
 
 Shu Zhang received his PhD degree in Computer Application Technologies from Ocean University of China, Qingdao, China. He was previously a research associate at the University of Portsmouth, Portsmouth, UK. He is currently a Lecturer with Ocean University of China, Qingdao, China. His main research interests include computer vision, feature analysis, 3D reconstruction, video processing, underwater image analysis, and deep learning among others. He has been serving as the program committee members or section chairs for a range of international academic conferences. He is a member of the China Computer Federation (CCF). 
 
-About me in Chinese can be found [here](http://it.ouc.edu.cn/2019/0527/c16104a248647/page.htm).
+<!--About me in Chinese can be found [here](http://it.ouc.edu.cn/2019/0527/c16104a248647/page.htm).-->
 
 ---
 
