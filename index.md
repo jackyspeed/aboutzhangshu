@@ -49,28 +49,29 @@ About me in Chinese can be found [here](http://it.ouc.edu.cn/2019/0527/c16104a24
 
 #### As first / correspondence author:
 
-- **S. Zhang**, H. Yu, T. Wang, J. Dong, and T. D. Pham, “Linearly Augmented Real-Time 4D Expressional Face Capture,” Inf. Sci., in publishing 2020.
-- **S. Zhang**, H. Yu, T. Wang, and J. Dong, “Augmented visual feature modelling for matching in low-visibility based on cycle-labelling of Superpixel Flow,” Knowledge-Based Syst., p. 105699, 2020,
+- **S. Zhang**, T. Wang, G. Li, J. Dong, and H. Yu, "MARS: Parallelism based Metrically Accurate 3D Reconstruction System in Real-Time," Real-Time Image Processing, in Publishing, 2020.
+- **S. Zhang**, H. Yu, T. Wang, J. Dong, and T. D. Pham, “Linearly augmented real-time 4D expressional face capture,” Information Sciences, vol. 545, pp. 331–343, 2020.
+- **S. Zhang**, H. Yu, T. Wang, and J. Dong, “Augmented visual feature modelling for matching in low-visibility based on cycle-labelling of Superpixel Flow,” Knowledge-Based Systems, p. 105699, 2020,
 - T Wang, **S. Zhang***, L. Liu, G. Wu, and J. Dong, “Automatic Facial Paralysis Evaluation Augmented by A Cascaded Encoder Network Structure,” IEEE Access, vol. 7, pp. 135621–135631, 2019。
-- **S. Zhang**, T. Wang, Y. Peng, and J. Dong, “A Hierarchically Trained Generative Network for Robust Facial Symmetrization,” Technol. Heal. Care, vol. 27, pp. 217–227, 2019.
-- **S. Zhang**, H. Yu, T. Wang, L. Qi, J. Dong, and H. Liu, “Dense 3D facial reconstruction from a single depth image in unconstrained environment,” Virtual Real., vol. 22, no. 1, pp. 37–46, Mar. 2018.
-- T. Wang, **S. Zhang***, J. Dong, and Y. Liang, “A Deep Variational Autoencoder Approach for Robust Facial Symmetrization,” in The British Machine Vision Conference, 2018.
+- **S. Zhang**, T. Wang, Y. Peng, and J. Dong, “A Hierarchically Trained Generative Network for Robust Facial Symmetrization,” Technology and Health Care, vol. 27, pp. 217–227, 2019.
+- **S. Zhang**, H. Yu, T. Wang, L. Qi, J. Dong, and H. Liu, “Dense 3D facial reconstruction from a single depth image in unconstrained environment,” Virtual Reality, vol. 22, no. 1, pp. 37–46, Mar. 2018.
+- T. Wang, **S. Zhang***, J. Dong, and Y. Liang, “A Deep Variational Autoencoder Approach for Robust Facial Symmetrization,” in The British Machine Vision Conference (BMVC), 2018.
 - **S. Zhang**, T. Wang, J. Dong, and H. Yu, “Underwater image enhancement via extended multi-scale retinex,” Neurocomputing, vol. 245, pp. 1–9, 2017.
-- **S. Zhang**, J. Dong, and H. Yu, “Automatic 3D Face Recovery from a Single Frame of a RGB-D Sensor,” in BMVA. British Machine Vision Conference, 2017.
+- **S. Zhang**, J. Dong, and H. Yu, “Automatic 3D Face Recovery from a Single Frame of a RGB-D Sensor,” in The British Machine Vision Conference (BMVC), 2017.
 - **S. Zhang**, J. Dong, and H. Yu, “Feature Matching for Underwater Image via Superpixel Tracking,” in Automation and Computing (ICAC), 2017 23rd International Conference on, 2017, pp. 1–5.
 - **S. Zhang**, H. Yu, J. Dong, T. Wang, L. Qi, and H. Liu, “Combining Kinect and PnP for camera pose estimation,” in 2015 8th IEEE International Conference on Human System Interaction (HSI), 2015, pp. 357–361.
 - **S. Zhang**, H. Yu, J. Dong, T. Wang, Z. Ju, and H. Liu, “Automatic reconstruction of dense 3D face point cloud with a single depth image,” in 2015 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2015, pp. 1439–1444.
 
 #### As co-author:
 
-- J. Sun, H. Yu, G. Zhong, J. Dong, **S. Zhang**, and H.C. Yu, “Random shapley forests: cooperative game based random forests with consistency,” IEEE Trans. Cybern., 2020.
+- J. Sun, H. Yu, G. Zhong, J. Dong, **S. Zhang**, and H.C. Yu, “Random shapley forests: cooperative game based random forests with consistency,” IEEE Transactions on Cybernetics, 2020.
 - T. Chen, J. Dong, L. Qi, **S. Zhang**, X. Wang, and Q. Zhao, “Spatial-Temporal Skeleton Feature: An Unit-Level Feature for Temporal Action Proposal Generation,” in 2019 Smart World Congress, 2019.
 - S. Han, X. Sun, J. Dong, **S. Zhang**, and Q. Li, “PhytoGAN: Unpaired Dead-to-Live Phytoplankton Translation,” in 2019 Smart World Congress, 2019.
 - H. Xv, X. Sun, J. Dong, **S. Zhang**, and Q. Li, “Multi-level Similarity Learning for Low-Shot Recognition,” in 2019 Smart World Congress, 2019.
 - J. Liu, T. Zhang, Y. Gao, **S. Zhang**, J. Sun, J. Dong, and H. Yu, “Dual Stage Augmented Colorful Texture Synthesis from Hand Sketch,” in Proceedings of the 25th International Conference on Automation & Computing, 2019.
 - Y. Luo, H. Jiao, L. Qi, J. Dong, **S. Zhang**, and H. Yu, “Augmenting Depth Estimation from Deep Convolutional Neural Network using Multi-Spectral Photometric Stereo,” in Proceedings of the 2017 IEEE International Conference on Ubiquitous Intelligence and Computing, 2017.
-- T. Wang, **S. Zhang**, J. Dong, L. Liu, and H. Yu, “Automatic evaluation of the degree of facial nerve paralysis,” Multimed. Tools Appl., vol. 75, no. 19, pp. 11893–11908, 2016.
-- T. Wang, J. Dong, X. Sun, **S. Zhang**, and S. Wang, “Automatic recognition of facial movement for paralyzed face,” Biomed. Mater. Eng., vol. 24, no. 6, pp. 2751–2760, 2014.
+- T. Wang, **S. Zhang**, J. Dong, L. Liu, and H. Yu, “Automatic evaluation of the degree of facial nerve paralysis,” Multimedia tools and applications, vol. 75, no. 19, pp. 11893–11908, 2016.
+- T. Wang, J. Dong, X. Sun, **S. Zhang**, and S. Wang, “Automatic recognition of facial movement for paralyzed face,” Bio-medical materials and engineering, vol. 24, no. 6, pp. 2751–2760, 2014.
 - T. Wang, L. Qi, J. Dong, **S. Zhang**, and S. Wang, “Facial paralysis grading: are achromatic images sufficient?,” Percept. ECVP Abstr., vol. 43, p. 19, 2014.
 
 ---
