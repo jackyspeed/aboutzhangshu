@@ -12,6 +12,7 @@ description: Email > zhangshu(at)ouc(dot)edu(dot)cn
 site.show_downloads: false
 site.github.is_project_page: false
 site.github.is_user_page: false
+test_var: test text in here.
 google_analytics:
 theme: jekyll-theme-minimal
 
