@@ -28,6 +28,8 @@ Courses
 - "High-Level Programming Language" for first-grade undergraduates.
 - "Compiler Principle" for third-grade undergraduates.
 - "Computer Image Processing and Pattern Recognition" for first-grade postgraduates.
+- "Computer Vision" for first-grade postgraduates.
+- "Web Programming" for international students.
 
 As supervisor for
 
