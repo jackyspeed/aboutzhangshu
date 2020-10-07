@@ -11,7 +11,7 @@ Shu Zhang received his PhD degree in Computer Application Technologies from Ocea
 
 ---
 
-## Experience
+## Working and education experience
 
 - 2016 – Now,  Ocean University of China, CN,  Lecturer.
 - 2016 – 2018, University of Portsmouth, UK,   Research Associate / Postdoc.
@@ -52,30 +52,6 @@ As participant
 
 ---
 
-## Academic contributions
-
-As international conference pc chair / member for
-
-- 2020 IEEE International Conference on Awareness Science and Technology, iCAST2020
-- 2020 IEEE International Conference on Trust, Security and Privacy in Computing and Communications, TrustCom2020
-- 2019 Smart World Congress, SmartWorld2019
-- 2018 International Conference on Advances in Signal, Image and Video Processing, SIGNAL2018
-- 2017 International Conference on Ubiquitous Intelligence and Computing, UIC2017
-
-As reviewer for
-
-- IEEE Transactions on Human-Machine Systems
-- Neurocomputing
-- International Journal of Automation and Computing
-- 2018 International Conference on Robotics and Automation
-- 2018 IEEE Conference on Automatic Face and Gesture Recognition
-- 2017 IEEE International Conference on Systems, Man, and Cybernetics
-- 2017 International Conference on Graphic and Image Processing
-- 2016 Asian Conference on Computer Vision
-- 2015 IEEE International Conference on Systems, Man, and Cybernetics
-
----
-
 ## Publications
 
 > <sub>Metrics</sub> | <sub>By September 2020</sub>
@@ -111,6 +87,30 @@ As co-author:
 - T. Wang, **S. Zhang**, J. Dong, L. Liu, and H. Yu, “Automatic evaluation of the degree of facial nerve paralysis,” Multimedia tools and applications, vol. 75, no. 19, pp. 11893–11908, 2016.
 - T. Wang, J. Dong, X. Sun, **S. Zhang**, and S. Wang, “Automatic recognition of facial movement for paralyzed face,” Bio-medical materials and engineering, vol. 24, no. 6, pp. 2751–2760, 2014.
 - T. Wang, L. Qi, J. Dong, **S. Zhang**, and S. Wang, “Facial paralysis grading: are achromatic images sufficient?,” Percept. ECVP Abstr., vol. 43, p. 19, 2014.
+
+---
+
+## Academic experience
+
+As international conference pc chair / member for
+
+- 2020 IEEE International Conference on Awareness Science and Technology, iCAST2020
+- 2020 IEEE International Conference on Trust, Security and Privacy in Computing and Communications, TrustCom2020
+- 2019 Smart World Congress, SmartWorld2019
+- 2018 International Conference on Advances in Signal, Image and Video Processing, SIGNAL2018
+- 2017 International Conference on Ubiquitous Intelligence and Computing, UIC2017
+
+As reviewer for
+
+- IEEE Transactions on Human-Machine Systems
+- Neurocomputing
+- International Journal of Automation and Computing
+- 2018 International Conference on Robotics and Automation
+- 2018 IEEE Conference on Automatic Face and Gesture Recognition
+- 2017 IEEE International Conference on Systems, Man, and Cybernetics
+- 2017 International Conference on Graphic and Image Processing
+- 2016 Asian Conference on Computer Vision
+- 2015 IEEE International Conference on Systems, Man, and Cybernetics
 
 ---
 
