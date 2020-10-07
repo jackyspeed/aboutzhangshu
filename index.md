@@ -23,13 +23,13 @@ Shu Zhang received his PhD degree in Computer Application Technologies from Ocea
 
 ## Teaching
 
-### Courses
+Courses
 
 - "High-Level Programming Language" for first-grade undergraduates.
 - "Compiler Principle" for third-grade undergraduates.
 - "Computer Image Processing and Pattern Recognition" for first-grade postgraduates.
 
-### As supervisor for
+As supervisor for
 
 - Undergraduate's thesis writing
 - Postgraduate's studies and research
@@ -38,23 +38,18 @@ Shu Zhang received his PhD degree in Computer Application Technologies from Ocea
 
 ## Fundings
 
-### As principal investigator:
-
- - Research in Deep Learning and Knowledge Graph Augmented Underwater 3D Scene Perception, funded by National Natural Science Foundation of China, China.
- - Research in Deep Learning and SLAM enhanced Human-Robot Interaction for Underwater ROV Control in Virtual Reality,  funded by China Postdoctoral Science Foundation, China.
-
-### As participant:
-
-- Research in Underwater 3D reconstruction, funded by the National Major Scientific Instruments and Equipments Development Project of National Natural Science Foundation of China, China.
-- Research in VR enhanced Human-Robot Interaction for underwater ROV, funded by the Shandong Provincial Natural Science Foundation, China.
-- Research in 4D face capture, funded by the Engineering and Physical Sciences Research Council (EPSRC), UK.
-- Research in Robot aided rehabilitation, funded by the EU FP7 Framework Programme, EU.
+ - Research in Deep Learning and Knowledge Graph Augmented Underwater 3D Scene Perception, funded by National Natural Science Foundation of China, China. (As **principal investigator**)
+ - Research in Deep Learning and SLAM enhanced Human-Robot Interaction for Underwater ROV Control in Virtual Reality,  funded by China Postdoctoral Science Foundation, China. (As **principal investigator**)
+- Research in Underwater 3D reconstruction, funded by the National Major Scientific Instruments and Equipments Development Project of National Natural Science Foundation of China, China. (As participant)
+- Research in VR enhanced Human-Robot Interaction for underwater ROV, funded by the Shandong Provincial Natural Science Foundation, China. (As participant)
+- Research in 4D face capture, funded by the Engineering and Physical Sciences Research Council (EPSRC), UK. (As participant)
+- Research in Robot aided rehabilitation, funded by the EU FP7 Framework Programme, EU. (As participant)
 
 ---
 
 ## Academic contributions
 
-### As conference programme committee chair / member for
+As international conference pc chair / member for
 
 - 2020 IEEE International Conference on Awareness Science and Technology, iCAST2020
 - 2020 IEEE International Conference on Trust, Security and Privacy in Computing and Communications, TrustCom2020
@@ -62,7 +57,7 @@ Shu Zhang received his PhD degree in Computer Application Technologies from Ocea
 - 2018 International Conference on Advances in Signal, Image and Video Processing, SIGNAL2018
 - 2017 International Conference on Ubiquitous Intelligence and Computing, UIC2017
 
-### As reviewer for
+As reviewer for
 
 - IEEE Transactions on Human-Machine Systems
 - Neurocomputing
@@ -84,7 +79,7 @@ Shu Zhang received his PhD degree in Computer Application Technologies from Ocea
 > <sub>h-index</sub> | <sub>5</sub>
 > <sub>i10-index</sub> | <sub>3</sub>
 
-### As first / correspondence author:
+As first / correspondence author:
 
 - **S. Zhang**, T. Wang, G. Li, J. Dong, and H. Yu, "MARS: Parallelism based Metrically Accurate 3D Reconstruction System in Real-Time," Real-Time Image Processing, in Publishing, 2020.
 - **S. Zhang**, H. Yu, T. Wang, J. Dong, and T. D. Pham, “Linearly augmented real-time 4D expressional face capture,” Information Sciences, vol. 545, pp. 331–343, 2020.
@@ -99,7 +94,7 @@ Shu Zhang received his PhD degree in Computer Application Technologies from Ocea
 - **S. Zhang**, H. Yu, J. Dong, T. Wang, L. Qi, and H. Liu, “Combining Kinect and PnP for camera pose estimation,” in Proceedings of 2015 the 8th IEEE International Conference on Human System Interaction (HSI), 2015, pp. 357–361.
 - **S. Zhang**, H. Yu, J. Dong, T. Wang, Z. Ju, and H. Liu, “Automatic reconstruction of dense 3D face point cloud with a single depth image,” in Proceedings of 2015 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2015, pp. 1439–1444.
 
-### As co-author:
+As co-author:
 
 - J. Sun, H. Yu, G. Zhong, J. Dong, **S. Zhang**, and H.C. Yu, “Random shapley forests: cooperative game based random forests with consistency,” IEEE Transactions on Cybernetics, pp. 1–10, 2020.
 - T. Chen, J. Dong, L. Qi, **S. Zhang**, X. Wang, and Q. Zhao, “Spatial-Temporal Skeleton Feature: An Unit-Level Feature for Temporal Action Proposal Generation,” in 2019 Smart World Congress, 2019.
