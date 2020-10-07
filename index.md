@@ -47,6 +47,11 @@ Shu Zhang received his PhD degree in Computer Application Technologies from Ocea
 
 ### Publications
 
+By September 2020
+- Citations 166
+- h-index 5
+- i10-index 3
+
 #### As first / correspondence author:
 
 - **S. Zhang**, T. Wang, G. Li, J. Dong, and H. Yu, "MARS: Parallelism based Metrically Accurate 3D Reconstruction System in Real-Time," Real-Time Image Processing, in Publishing, 2020.
