@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-## Welcome to Shu ZHANG's Pages
+# Welcome to Shu ZHANG's Pages
 
 Shu Zhang received his PhD degree in Computer Application Technologies from Ocean University of China, Qingdao, China. He was previously a research associate at the University of Portsmouth, Portsmouth, UK. He is currently a Lecturer with Ocean University of China, Qingdao, China. His main research interests include computer vision, feature analysis, 3D reconstruction, video processing, underwater image analysis, and deep learning among others. He has been serving as the program committee members or section chairs for a range of international academic conferences. He is a member of the China Computer Federation (CCF). 
 
@@ -11,7 +11,7 @@ Shu Zhang received his PhD degree in Computer Application Technologies from Ocea
 
 ---
 
-### Experience
+## Experience
 
 - 2016 – Now,  Ocean University of China, CN,  Lecturer.
 - 2016 – 2018, University of Portsmouth, UK,   Research Associate / Postdoc.
@@ -21,7 +21,7 @@ Shu Zhang received his PhD degree in Computer Application Technologies from Ocea
 
 ---
 
-### Teaching
+## Teaching
 
 - "High-Level Programming Language" for first-grade undergraduates.
 - "Compiler Principle" for third-grade undergraduates.
@@ -29,14 +29,14 @@ Shu Zhang received his PhD degree in Computer Application Technologies from Ocea
 
 ---
 
-### Fundings
+## Fundings
 
-#### As principal investigator:
+### As principal investigator:
 
  - 2020.01 – 2022.12,  Deep Learning and Knowledge Graph Augmented Underwater 3D Scene Perception, National Natural Science Foundation of China, China.
  - 2019.05 – 2021.04,  Deep Learning and SLAM enhanced Human-Robot Interaction for Underwater ROV Control in Virtual Reality,  China Postdoctoral Science Foundation, China.
 
-#### As participant:
+### As participant:
 
 - Research in Underwater 3D reconstruction, funded by the National Major Scientific Instruments and Equipments Development Project of National Natural Science Foundation of China, China.
 - Research in VR enhanced Human-Robot Interaction for underwater ROV, funded by the Shandong Provincial Natural Science Foundation, China.
@@ -45,15 +45,15 @@ Shu Zhang received his PhD degree in Computer Application Technologies from Ocea
 
 ---
 
-### Publications
+## Publications
 
-<sub>Metrics</sub> | <sub>By September 2020</sub>
-------- | -------
-<sub>citations</sub> | <sub>166</sub>
-<sub>h-index</sub> | <sub>5</sub>
-<sub>i10-index</sub> | <sub>3</sub>
+> <sub>Metrics</sub> | <sub>By September 2020</sub>
+> ------- | -------
+> <sub>citations</sub> | <sub>166</sub>
+> <sub>h-index</sub> | <sub>5</sub>
+> <sub>i10-index</sub> | <sub>3</sub>
 
-#### As first / correspondence author:
+### As first / correspondence author:
 
 - **S. Zhang**, T. Wang, G. Li, J. Dong, and H. Yu, "MARS: Parallelism based Metrically Accurate 3D Reconstruction System in Real-Time," Real-Time Image Processing, in Publishing, 2020.
 - **S. Zhang**, H. Yu, T. Wang, J. Dong, and T. D. Pham, “Linearly augmented real-time 4D expressional face capture,” Information Sciences, vol. 545, pp. 331–343, 2020.
@@ -68,7 +68,7 @@ Shu Zhang received his PhD degree in Computer Application Technologies from Ocea
 - **S. Zhang**, H. Yu, J. Dong, T. Wang, L. Qi, and H. Liu, “Combining Kinect and PnP for camera pose estimation,” in Proceedings of 2015 the 8th IEEE International Conference on Human System Interaction (HSI), 2015, pp. 357–361.
 - **S. Zhang**, H. Yu, J. Dong, T. Wang, Z. Ju, and H. Liu, “Automatic reconstruction of dense 3D face point cloud with a single depth image,” in Proceedings of 2015 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2015, pp. 1439–1444.
 
-#### As co-author:
+### As co-author:
 
 - J. Sun, H. Yu, G. Zhong, J. Dong, **S. Zhang**, and H.C. Yu, “Random shapley forests: cooperative game based random forests with consistency,” IEEE Transactions on Cybernetics, pp. 1–10, 2020.
 - T. Chen, J. Dong, L. Qi, **S. Zhang**, X. Wang, and Q. Zhao, “Spatial-Temporal Skeleton Feature: An Unit-Level Feature for Temporal Action Proposal Generation,” in 2019 Smart World Congress, 2019.
@@ -83,7 +83,7 @@ Shu Zhang received his PhD degree in Computer Application Technologies from Ocea
 ---
 
 
-### Github Pages Supports
+## Github Pages Supports
 
 [Editor on GitHub](https://github.com/jackyspeed/aboutzhangshu/edit/gh-pages/index.md)
 
