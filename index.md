@@ -47,11 +47,11 @@ Shu Zhang received his PhD degree in Computer Application Technologies from Ocea
 
 ### Publications
 
-Metrics     | By September 2020
------------ | ------------
-citations   | 166
-h-index     | 5
-i10-index   | 3
+<sub>Metrics</sub> | <sub>By September 2020</sub>
+------- | -------
+<sub>citations</sub> | <sub>166</sub>
+<sub>h-index</sub> | <sub>5</sub>
+<sub>i10-index</sub> | <sub>3</sub>
 
 #### As first / correspondence author:
 
