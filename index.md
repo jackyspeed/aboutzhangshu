@@ -38,12 +38,17 @@ As supervisor for
 
 ## Fundings
 
- - Research in Deep Learning and Knowledge Graph Augmented Underwater 3D Scene Perception, funded by National Natural Science Foundation of China, China. (As **principal investigator**)
- - Research in Deep Learning and SLAM enhanced Human-Robot Interaction for Underwater ROV Control in Virtual Reality,  funded by China Postdoctoral Science Foundation, China. (As **principal investigator**)
-- Research in Underwater 3D reconstruction, funded by the National Major Scientific Instruments and Equipments Development Project of National Natural Science Foundation of China, China. (As participant)
-- Research in VR enhanced Human-Robot Interaction for underwater ROV, funded by the Shandong Provincial Natural Science Foundation, China. (As participant)
-- Research in 4D face capture, funded by the Engineering and Physical Sciences Research Council (EPSRC), UK. (As participant)
-- Research in Robot aided rehabilitation, funded by the EU FP7 Framework Programme, EU. (As participant)
+As principal investigator
+
+- Research in Deep Learning and Knowledge Graph Augmented Underwater 3D Scene Perception, funded by National Natural Science Foundation of China, China.
+- Research in Deep Learning and SLAM enhanced Human-Robot Interaction for Underwater ROV Control in Virtual Reality,  funded by China Postdoctoral Science Foundation, China.
+
+As participant
+
+- Research in Underwater 3D reconstruction, funded by the National Major Scientific Instruments and Equipments Development Project of National Natural Science Foundation of China, China. 
+- Research in VR enhanced Human-Robot Interaction for underwater ROV, funded by the Shandong Provincial Natural Science Foundation, China.
+- Research in 4D face capture, funded by the Engineering and Physical Sciences Research Council (EPSRC), UK.
+- Research in Robot aided rehabilitation, funded by the EU FP7 Framework Programme, EU.
 
 ---
 
