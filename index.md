@@ -40,8 +40,8 @@ Shu Zhang received his PhD degree in Computer Application Technologies from Ocea
 
 ### As principal investigator:
 
- - 2020.01 – 2022.12,  Deep Learning and Knowledge Graph Augmented Underwater 3D Scene Perception, National Natural Science Foundation of China, China.
- - 2019.05 – 2021.04,  Deep Learning and SLAM enhanced Human-Robot Interaction for Underwater ROV Control in Virtual Reality,  China Postdoctoral Science Foundation, China.
+ - Research in Deep Learning and Knowledge Graph Augmented Underwater 3D Scene Perception, funded by National Natural Science Foundation of China, China.
+ - Research in Deep Learning and SLAM enhanced Human-Robot Interaction for Underwater ROV Control in Virtual Reality,  funded by China Postdoctoral Science Foundation, China.
 
 ### As participant:
 
