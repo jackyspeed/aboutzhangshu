@@ -21,9 +21,9 @@ Shu Zhang received his PhD degree in Computer Application Technologies from Ocea
 
 ---
 
-## Contribution in College Education
+## Teaching
 
-### Teaching
+### Courses
 
 - "High-Level Programming Language" for first-grade undergraduates.
 - "Compiler Principle" for third-grade undergraduates.
@@ -52,7 +52,7 @@ Shu Zhang received his PhD degree in Computer Application Technologies from Ocea
 
 ---
 
-## Academic Supports
+## Academic contributions
 
 ### As conference programme committee chair / member for
 
