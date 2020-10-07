@@ -58,13 +58,13 @@ Shu Zhang received his PhD degree in Computer Application Technologies from Ocea
 - T. Wang, **S. Zhang***, J. Dong, and Y. Liang, “A Deep Variational Autoencoder Approach for Robust Facial Symmetrization,” in The British Machine Vision Conference (BMVC), 2018.
 - **S. Zhang**, T. Wang, J. Dong, and H. Yu, “Underwater image enhancement via extended multi-scale retinex,” Neurocomputing, vol. 245, pp. 1–9, 2017.
 - **S. Zhang**, J. Dong, and H. Yu, “Automatic 3D Face Recovery from a Single Frame of a RGB-D Sensor,” in The British Machine Vision Conference (BMVC), 2017.
-- **S. Zhang**, J. Dong, and H. Yu, “Feature Matching for Underwater Image via Superpixel Tracking,” in Automation and Computing (ICAC), 2017 23rd International Conference on, 2017, pp. 1–5.
-- **S. Zhang**, H. Yu, J. Dong, T. Wang, L. Qi, and H. Liu, “Combining Kinect and PnP for camera pose estimation,” in 2015 8th IEEE International Conference on Human System Interaction (HSI), 2015, pp. 357–361.
-- **S. Zhang**, H. Yu, J. Dong, T. Wang, Z. Ju, and H. Liu, “Automatic reconstruction of dense 3D face point cloud with a single depth image,” in 2015 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2015, pp. 1439–1444.
+- **S. Zhang**, J. Dong, and H. Yu, “Feature Matching for Underwater Image via Superpixel Tracking,” in Proceedings of 2017 the 23rd International Conference on Automation and Computing (ICAC), 2017, pp. 1–5.
+- **S. Zhang**, H. Yu, J. Dong, T. Wang, L. Qi, and H. Liu, “Combining Kinect and PnP for camera pose estimation,” in Proceedings of 2015 the 8th IEEE International Conference on Human System Interaction (HSI), 2015, pp. 357–361.
+- **S. Zhang**, H. Yu, J. Dong, T. Wang, Z. Ju, and H. Liu, “Automatic reconstruction of dense 3D face point cloud with a single depth image,” in Proceedings of 2015 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2015, pp. 1439–1444.
 
 #### As co-author:
 
-- J. Sun, H. Yu, G. Zhong, J. Dong, **S. Zhang**, and H.C. Yu, “Random shapley forests: cooperative game based random forests with consistency,” IEEE Transactions on Cybernetics, 2020.
+- J. Sun, H. Yu, G. Zhong, J. Dong, **S. Zhang**, and H.C. Yu, “Random shapley forests: cooperative game based random forests with consistency,” IEEE Transactions on Cybernetics, pp. 1–10, 2020.
 - T. Chen, J. Dong, L. Qi, **S. Zhang**, X. Wang, and Q. Zhao, “Spatial-Temporal Skeleton Feature: An Unit-Level Feature for Temporal Action Proposal Generation,” in 2019 Smart World Congress, 2019.
 - S. Han, X. Sun, J. Dong, **S. Zhang**, and Q. Li, “PhytoGAN: Unpaired Dead-to-Live Phytoplankton Translation,” in 2019 Smart World Congress, 2019.
 - H. Xv, X. Sun, J. Dong, **S. Zhang**, and Q. Li, “Multi-level Similarity Learning for Low-Shot Recognition,” in 2019 Smart World Congress, 2019.
