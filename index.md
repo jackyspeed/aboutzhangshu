@@ -14,9 +14,9 @@ Shu Zhang received his PhD degree in Computer Application Technologies from Ocea
 ## Working and education experience
 
 - 2016 – Now,  Ocean University of China, CN,  Lecturer.
-- 2016 – 2018, University of Portsmouth, UK,   Research Associate / Postdoc.
+- 2016 – 2018, University of Portsmouth, UK,   Research Associate.
 - 2014 – 2016, University of Portsmouth, UK,   Joint PhD Training.
-- 2012 – 2017, Ocean University of China, CN,  PhD.
+- 2012 – 2017, Ocean University of China, CN,  PhD Candidate.
 - 2011 – 2012, Chinese Academy of Science, CN, Research Assistant.
 
 ---
