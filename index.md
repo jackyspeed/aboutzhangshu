@@ -23,7 +23,7 @@ Shu Zhang received his PhD degree in Computer Application Technologies from Ocea
 
 ## Teaching
 
-Courses
+Courses:
 
 - "High-Level Programming Language" for first-grade undergraduates.
 - "Compiler Principle" for third-grade undergraduates.
@@ -31,7 +31,7 @@ Courses
 - "Computer Vision" for first-grade postgraduates.
 - "Web Programming" for international students.
 
-As supervisor for
+As supervisor for:
 
 - Undergraduate's thesis writing
 - Postgraduate's studies and research
@@ -40,12 +40,12 @@ As supervisor for
 
 ## Fundings
 
-As principal investigator
+As principal investigator:
 
 - Research in Deep Learning and Knowledge Graph Augmented Underwater 3D Scene Perception, funded by National Natural Science Foundation of China, China.
 - Research in Deep Learning and SLAM enhanced Human-Robot Interaction for Underwater ROV Control in Virtual Reality,  funded by China Postdoctoral Science Foundation, China.
 
-As participant
+As participant:
 
 - Research in Underwater 3D reconstruction, funded by the National Major Scientific Instruments and Equipments Development Project of National Natural Science Foundation of China, China. 
 - Research in VR enhanced Human-Robot Interaction for underwater ROV, funded by the Shandong Provincial Natural Science Foundation, China.
@@ -94,7 +94,7 @@ As co-author:
 
 ## Academic experience
 
-As international conference pc chair / member for
+As international conference pc member / section chair for:
 
 - 2020 IEEE International Conference on Awareness Science and Technology, iCAST2020
 - 2020 IEEE International Conference on Trust, Security and Privacy in Computing and Communications, TrustCom2020
@@ -102,7 +102,7 @@ As international conference pc chair / member for
 - 2018 International Conference on Advances in Signal, Image and Video Processing, SIGNAL2018
 - 2017 International Conference on Ubiquitous Intelligence and Computing, UIC2017
 
-As reviewer for
+As reviewer for:
 
 - IEEE Transactions on Human-Machine Systems
 - Neurocomputing
