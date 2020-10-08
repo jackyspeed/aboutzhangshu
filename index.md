@@ -94,9 +94,8 @@ Cited by
 Cited by
 > <sub>citations</sub> | <sub>h-index</sub> | <sub>i10-index</sub> 
 > ------- | ------- | -------
-> <sub>166</sub> | <sub>5</sub> | <sub>3</sub>
-> 
-> <sub>Metrics are evaluated by Google Scholar by August 2020.</sub>
+> <sub>166</sub> | <sub>5</sub> | <sub>3</sub> 
+> <sub>Metrics are evaluated by Google Scholar by August 2020.</sub>||
 
 ---
 
