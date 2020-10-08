@@ -56,6 +56,7 @@ As participant:
 
 ## Publications
 
+<div style="text-align: justify">
 As first / correspondence author:
 
 - **S. Zhang**, T. Wang, G. Li, J. Dong, and H. Yu, "MARS: Parallelism based Metrically Accurate 3D Reconstruction System in Real-Time," Real-Time Image Processing, in Publishing, 2020.
@@ -89,6 +90,7 @@ Cited by
 > <sub>citations</sub> | <sub>166</sub>
 > <sub>h-index</sub> | <sub>5</sub>
 > <sub>i10-index</sub> | <sub>3</sub>
+</div>
 
 ---
 
