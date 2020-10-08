@@ -83,14 +83,12 @@ As co-author:
 - T. Wang, J. Dong, X. Sun, **S. Zhang**, and S. Wang, “Automatic recognition of facial movement for paralyzed face,” Bio-medical materials and engineering, vol. 24, no. 6, pp. 2751–2760, 2014.
 - T. Wang, L. Qi, J. Dong, **S. Zhang**, and S. Wang, “Facial paralysis grading: are achromatic images sufficient?,” Percept. ECVP Abstr., vol. 43, p. 19, 2014.
 
-<!--
 Cited by
 > <sub>Metrics</sub> | <sub>By September 2020</sub>
 > ------- | -------
 > <sub>citations</sub> | <sub>166</sub>
 > <sub>h-index</sub> | <sub>5</sub>
 > <sub>i10-index</sub> | <sub>3</sub>
---》
 
 ---
 
