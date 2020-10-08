@@ -56,13 +56,6 @@ As participant:
 
 ## Publications
 
-> <sub>Metrics</sub> | <sub>By September 2020</sub>
-> ------- | -------
-> <sub>citations</sub> | <sub>166</sub>
-> <sub>h-index</sub> | <sub>5</sub>
-> <sub>i10-index</sub> | <sub>3</sub>
-
-<br>
 As first / correspondence author:
 
 - **S. Zhang**, T. Wang, G. Li, J. Dong, and H. Yu, "MARS: Parallelism based Metrically Accurate 3D Reconstruction System in Real-Time," Real-Time Image Processing, in Publishing, 2020.
@@ -89,6 +82,13 @@ As co-author:
 - T. Wang, **S. Zhang**, J. Dong, L. Liu, and H. Yu, “Automatic evaluation of the degree of facial nerve paralysis,” Multimedia tools and applications, vol. 75, no. 19, pp. 11893–11908, 2016.
 - T. Wang, J. Dong, X. Sun, **S. Zhang**, and S. Wang, “Automatic recognition of facial movement for paralyzed face,” Bio-medical materials and engineering, vol. 24, no. 6, pp. 2751–2760, 2014.
 - T. Wang, L. Qi, J. Dong, **S. Zhang**, and S. Wang, “Facial paralysis grading: are achromatic images sufficient?,” Percept. ECVP Abstr., vol. 43, p. 19, 2014.
+
+Cited by
+> <sub>Metrics</sub> | <sub>By September 2020</sub>
+> ------- | -------
+> <sub>citations</sub> | <sub>166</sub>
+> <sub>h-index</sub> | <sub>5</sub>
+> <sub>i10-index</sub> | <sub>3</sub>
 
 ---
 
