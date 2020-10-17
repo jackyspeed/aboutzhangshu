@@ -121,7 +121,7 @@ As reviewer for:
 
 [Editor on GitHub](https://github.com/jackyspeed/aboutzhangshu/edit/gh-pages/index.md)
 
-[Editor on _config GitHub](https://github.com/jackyspeed/aboutzhangshu/edit/gh-pages/_config.yml)
+[Editor _config on GitHub](https://github.com/jackyspeed/aboutzhangshu/edit/gh-pages/_config.yml)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
