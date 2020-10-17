@@ -121,6 +121,8 @@ As reviewer for:
 
 [Editor on GitHub](https://github.com/jackyspeed/aboutzhangshu/edit/gh-pages/index.md)
 
+[Editor on _config GitHub](https://github.com/jackyspeed/aboutzhangshu/edit/gh-pages/_config.yml)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
