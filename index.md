@@ -119,9 +119,9 @@ As reviewer for:
 
 ## Github Pages Supports
 
-[Editor on GitHub](https://github.com/jackyspeed/aboutzhangshu/edit/gh-pages/index.md)
+[Editor of index on GitHub](https://github.com/jackyspeed/aboutzhangshu/edit/gh-pages/index.md)
 
-[Editor _config on GitHub](https://github.com/jackyspeed/aboutzhangshu/edit/gh-pages/_config.yml)
+[Editor of _config on GitHub](https://github.com/jackyspeed/aboutzhangshu/edit/gh-pages/_config.yml)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
