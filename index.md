@@ -85,9 +85,9 @@ As co-author:
 - T. Wang, L. Qi, J. Dong, **S. Zhang**, and S. Wang, “Facial paralysis grading: are achromatic images sufficient?,” Percept. ECVP Abstr., vol. 43, p. 19, 2014.
 
 Cited by
-> > <sub>citations</sub> | <sub>h-index</sub> | <sub>i10-index</sub> 
-> > ------- | ------- | -------
-> > <sub>166</sub> | <sub>5</sub> | <sub>3</sub> 
+> > <sub>citations</sub> | <sub>top citations for single paper</sub> | <sub>h-index</sub> | <sub>i10-index</sub> 
+> > ------- | ------- | ------- | -------
+> > <sub>170</sub> | <sub>101</sub> | <sub>5</sub> | <sub>3</sub> 
 >
 > <sub>Metrics are evaluated by Google Scholar by August 2020.</sub>
 
