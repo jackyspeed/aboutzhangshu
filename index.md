@@ -58,7 +58,7 @@ As participant:
 
 As first / correspondence author:
 
-- **S. Zhang**, T. Wang, G. Li, J. Dong, and H. Yu, "MARS: Parallelism based Metrically Accurate 3D Reconstruction System in Real-Time," Real-Time Image Processing, in Publishing, 2020.
+- **S. Zhang**, T. Wang, G. Li, J. Dong, and H. Yu, "MARS: Parallelism based Metrically Accurate 3D Reconstruction System in Real-Time," Real-Time Image Processing, 2020.
 - **S. Zhang**, H. Yu, T. Wang, J. Dong, and T. D. Pham, “Linearly augmented real-time 4D expressional face capture,” Information Sciences, vol. 545, pp. 331–343, 2020.
 - **S. Zhang**, H. Yu, T. Wang, and J. Dong, “Augmented visual feature modelling for matching in low-visibility based on cycle-labelling of Superpixel Flow,” Knowledge-Based Systems, p. 105699, 2020,
 - T Wang, **S. Zhang***, L. Liu, G. Wu, and J. Dong, “Automatic Facial Paralysis Evaluation Augmented by A Cascaded Encoder Network Structure,” IEEE Access, vol. 7, pp. 135621–135631, 2019。
