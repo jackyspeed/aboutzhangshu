@@ -61,6 +61,7 @@ As first / correspondence author:
 - **S. Zhang**, T. Wang, G. Li, J. Dong, and H. Yu, "MARS: Parallelism based Metrically Accurate 3D Reconstruction System in Real-Time," Real-Time Image Processing, 2020.
 - **S. Zhang**, H. Yu, T. Wang, J. Dong, and T. D. Pham, “Linearly augmented real-time 4D expressional face capture,” Information Sciences, vol. 545, pp. 331–343, 2020.
 - **S. Zhang**, H. Yu, T. Wang, and J. Dong, “Augmented visual feature modelling for matching in low-visibility based on cycle-labelling of Superpixel Flow,” Knowledge-Based Systems, p. 105699, 2020,
+- J. Xu, J. Li, **S. Zhang***, C. Xie, and J. Dong, “Skeleton Guided Conflict-Free Hand Gesture Recognition for Robot Control,” in The 11th International Conference on Awareness Science and Technology, 2020.
 - T Wang, **S. Zhang***, L. Liu, G. Wu, and J. Dong, “Automatic Facial Paralysis Evaluation Augmented by A Cascaded Encoder Network Structure,” IEEE Access, vol. 7, pp. 135621–135631, 2019。
 - **S. Zhang**, T. Wang, Y. Peng, and J. Dong, “A Hierarchically Trained Generative Network for Robust Facial Symmetrization,” Technology and Health Care, vol. 27, pp. 217–227, 2019.
 - **S. Zhang**, H. Yu, T. Wang, L. Qi, J. Dong, and H. Liu, “Dense 3D facial reconstruction from a single depth image in unconstrained environment,” Virtual Reality, vol. 22, no. 1, pp. 37–46, Mar. 2018.
@@ -75,6 +76,7 @@ As co-author:
 
 - J. Sun, Z. Wang, H. Yu, **S. Zhang**, Ju. Dong, and P. Gao, “Two-stage deep regression enhanced depth estimation from a single RGB image,” IEEE Transactions on Emerging Topics in Computing, 2020.
 - J. Sun, H. Yu, G. Zhong, J. Dong, **S. Zhang**, and H.C. Yu, “Random shapley forests: cooperative game based random forests with consistency,” IEEE Transactions on Cybernetics, pp. 1–10, 2020.
+- Z. Shi, Q. Lyu, **S. Zhang**, L. Qi, H. Fan, and J. Dong, “A Visual-SLAM based Line Laser Scanning System using Semantically Segmented Images,” in The 11th International Conference on Awareness Science and Technology, 2020.
 - T. Chen, J. Dong, L. Qi, **S. Zhang**, X. Wang, and Q. Zhao, “Spatial-Temporal Skeleton Feature: An Unit-Level Feature for Temporal Action Proposal Generation,” in 2019 Smart World Congress, 2019.
 - S. Han, X. Sun, J. Dong, **S. Zhang**, and Q. Li, “PhytoGAN: Unpaired Dead-to-Live Phytoplankton Translation,” in 2019 Smart World Congress, 2019.
 - H. Xv, X. Sun, J. Dong, **S. Zhang**, and Q. Li, “Multi-level Similarity Learning for Low-Shot Recognition,” in 2019 Smart World Congress, 2019.
@@ -87,7 +89,7 @@ As co-author:
 Cited by
 > > <sub>citations</sub> | <sub>highest single article citations</sub> | <sub>h-index</sub> | <sub>i10-index</sub> 
 > > ------- | ------- | ------- | -------
-> > <sub>178</sub> | <sub>105</sub> | <sub>5</sub> | <sub>3</sub> 
+> > <sub>180</sub> | <sub>107</sub> | <sub>5</sub> | <sub>3</sub> 
 >
 > <sub>Metrics are evaluated by Google Scholar by August 2020.</sub>
 
