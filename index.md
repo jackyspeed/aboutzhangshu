@@ -89,7 +89,7 @@ As co-author:
 Cited by
 > > <sub>citations</sub> | <sub>highest single article citations</sub> | <sub>h-index</sub> | <sub>i10-index</sub> 
 > > ------- | ------- | ------- | -------
-> > <sub>219</sub> | <sub>134</sub> | <sub>5</sub> | <sub>3</sub> 
+> > <sub>234</sub> | <sub>141</sub> | <sub>5</sub> | <sub>3</sub> 
 >
 > <sub>Metrics are evaluated by Google Scholar by August 2020.</sub>
 
