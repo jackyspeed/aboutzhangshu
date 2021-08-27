@@ -89,7 +89,7 @@ As co-author:
 Cited by
 > > <sub>citations</sub> | <sub>highest single article citations</sub> | <sub>h-index</sub> | <sub>i10-index</sub> 
 > > ------- | ------- | ------- | -------
-> > <sub>239</sub> | <sub>145</sub> | <sub>5</sub> | <sub>3</sub> 
+> > <sub>242</sub> | <sub>149</sub> | <sub>5</sub> | <sub>3</sub> 
 >
 > <sub>Metrics are evaluated by Google Scholar by August 2020.</sub>
 
@@ -99,10 +99,13 @@ Cited by
 
 As international conference pc member / section chair for:
 
+- 2021 International Conference on Ubiquitous Intelligence and Computing, UIC2021
 - 2020 IEEE International Conference on Awareness Science and Technology, iCAST2020
 - 2020 IEEE International Conference on Trust, Security and Privacy in Computing and Communications, TrustCom2020
 - 2019 Smart World Congress, SmartWorld2019
+- 2019 International Conference on Ubiquitous Intelligence and Computing, UIC2019
 - 2018 International Conference on Advances in Signal, Image and Video Processing, SIGNAL2018
+- 2018 International Conference on Ubiquitous Intelligence and Computing, UIC2018
 - 2017 International Conference on Ubiquitous Intelligence and Computing, UIC2017
 
 As reviewer for:
