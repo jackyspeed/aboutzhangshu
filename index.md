@@ -74,6 +74,7 @@ As first / correspondence author:
 
 As co-author:
 
+- Z. Zhang, J. Dong, Q. Zhao, L. Qi, and **S. Zhang**, “Attention LSTM for Scene Graph Generation,” in 2021 6th International Conference on Image, Vision and Computing (ICIVC), pp. 264–268, 2021.
 - J. Sun, Z. Wang, H. Yu, **S. Zhang**, Ju. Dong, and P. Gao, “Two-stage deep regression enhanced depth estimation from a single RGB image,” IEEE Transactions on Emerging Topics in Computing, 2020.
 - J. Sun, H. Yu, G. Zhong, J. Dong, **S. Zhang**, and H.C. Yu, “Random shapley forests: cooperative game based random forests with consistency,” IEEE Transactions on Cybernetics, pp. 1–10, 2020.
 - Z. Shi, Q. Lyu, **S. Zhang**, L. Qi, H. Fan, and J. Dong, “A Visual-SLAM based Line Laser Scanning System using Semantically Segmented Images,” in The 11th International Conference on Awareness Science and Technology, 2020.
