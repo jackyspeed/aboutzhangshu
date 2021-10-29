@@ -87,6 +87,10 @@ As co-author:
 - T. Wang, J. Dong, X. Sun, **S. Zhang**, and S. Wang, “Automatic recognition of facial movement for paralyzed face,” Bio-medical materials and engineering, vol. 24, no. 6, pp. 2751–2760, 2014.
 - T. Wang, L. Qi, J. Dong, **S. Zhang**, and S. Wang, “Facial paralysis grading: are achromatic images sufficient?,” Percept. ECVP Abstr., vol. 43, p. 19, 2014.
 
+Patents:
+
+- 董军宇; 吴则举; 亓琳; 王楠; **张述**; 范浩, 水下高精度三维重建装置及方法, 2018.12.25-2038.12.25, 中国, ZL2016101838227 
+
 Cited by
 > > <sub>citations</sub> | <sub>highest single article citations</sub> | <sub>h-index</sub> | <sub>i10-index</sub> 
 > > ------- | ------- | ------- | -------
