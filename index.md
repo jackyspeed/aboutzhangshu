@@ -95,9 +95,9 @@ Patents:
 - 董军宇; 吴则举; 亓琳; 王楠; **张述**; 范浩, 水下高精度三维重建装置及方法, 2018.12.25-2038.12.25, 中国, ZL2016101838227 
 
 Cited by
-> > <sub>citations</sub> | <sub>highest single article citations</sub> | <sub>h-index</sub> | <sub>i10-index</sub> 
-> > ------- | ------- | ------- | -------
-> > <sub>284</sub> | <sub>166</sub> | <sub>6</sub> | <sub>3</sub> 
+> > <sub>citations</sub> | <sub>highest single article citations</sub> 
+> > ------- | ------- 
+> > <sub>284</sub> | <sub>166</sub> 
 >
 > <sub>Metrics are evaluated by Google Scholar.</sub>
 
