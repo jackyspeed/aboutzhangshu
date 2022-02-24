@@ -77,6 +77,7 @@ As first / correspondence author:
 
 As co-author:
 
+- E. Rigall, X. Wang, Q. Chen, **S. Zhang** and J. Dong, "An RFID Tag Localization Method Based on Hologram Mask and Discrete Cosine Transform," in IEEE Transactions on Instrumentation and Measurement, vol. 71, pp. 1-12, 2022.
 - Z. Zhang, J. Dong, Q. Zhao, L. Qi, and **S. Zhang**, “Attention LSTM for Scene Graph Generation,” in 2021 6th International Conference on Image, Vision and Computing (ICIVC), pp. 264–268, 2021.
 - J. Sun, Z. Wang, H. Yu, **S. Zhang**, Ju. Dong, and P. Gao, “Two-stage deep regression enhanced depth estimation from a single RGB image,” IEEE Transactions on Emerging Topics in Computing, 2020.
 - J. Sun, H. Yu, G. Zhong, J. Dong, **S. Zhang**, and H.C. Yu, “Random shapley forests: cooperative game based random forests with consistency,” IEEE Transactions on Cybernetics, pp. 1–10, 2020.
