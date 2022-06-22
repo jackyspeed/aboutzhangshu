@@ -97,7 +97,7 @@ Patents:
 Cited by
 > > <sub>citations</sub> | <sub>highest single article citations</sub> 
 > > ------- | ------- 
-> > <sub>310</sub> | <sub>191</sub> 
+> > <sub>322</sub> | <sub>199</sub> 
 >
 > <sub>Metrics are evaluated by Google Scholar.</sub>
 
