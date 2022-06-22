@@ -5,7 +5,7 @@ layout: default
 
 # Know more about him
 
-Shu Zhang is currently a Associate Professor with Ocean University of China, Qingdao, China. He received his PhD degree in Computer Application Technologies from Ocean University of China. He was previously a research associate at the University of Portsmouth, Portsmouth, UK. His main research interests include computer vision, feature analysis, 3D reconstruction, video processing, underwater image analysis, and deep learning among others. He has been serving as the program committee members or section chairs for a range of international academic conferences. He is a member of the China Computer Federation (CCF). 
+Shu Zhang is currently a Associate Professor and Postgraduate supervisor with Ocean University of China, Qingdao, China. He received his PhD degree in Computer Application Technologies from Ocean University of China. He was previously a research associate at the University of Portsmouth, Portsmouth, UK. His main research interests include computer vision, feature analysis, 3D reconstruction, video processing, underwater image analysis, and deep learning among others. He has been serving as the program committee members or section chairs for a range of international academic conferences. He is a member of the China Computer Federation (CCF). 
 
 <!--About me in Chinese can be found [here](http://it.ouc.edu.cn/2019/0527/c16104a248647/page.htm).-->
 
