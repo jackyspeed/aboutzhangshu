@@ -44,6 +44,7 @@ As supervisor for:
 
 As principal investigator:
 
+- Research in Dot-Laser Assisted Hand-Held Underwater 3D Sensing via Vision Algorithm, funded by Natural Science Foundation of Hainan Province, China.
 - Research in Deep Learning and Knowledge Graph Augmented Underwater 3D Scene Perception, funded by National Natural Science Foundation of China, China.
 - Research in Deep Learning and SLAM enhanced Human-Robot Interaction for Underwater ROV Control in Virtual Reality,  funded by China Postdoctoral Science Foundation, China.
 
