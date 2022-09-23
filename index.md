@@ -61,6 +61,8 @@ As participant:
 
 As first / correspondence author:
 
+- K. Yang, Y. Jiang, L. Qi, H. Fan, **S. Zhang***, and J. Dong, "Visual Semantic SLAM Based on Examination of Moving Consistency in Dynamic Scenes," in the 4th International Conference on Data Intelligence and Security (ICDIS2022), 2022.
+- S. Jiao, **S. Zhang***, F. Gao, T. Wang, "Data Security Search Based on Semi-Supervised Sensitive Classifier," in the 4th International Conference on Data Intelligence and Security (ICDIS2022), 2022.
 - **S. Zhang**, T. Wang, G. Li, J. Dong, and H. Yu, “MARS: parallelism-based metrically accurate 3D reconstruction system in real-time,” Journal of Real-Time Image Processing, vol. 18, no. 2, pp. 393–405, 2021.
 - **S. Zhang**, H. Yu, T. Wang, J. Dong, and T. D. Pham, “Linearly augmented real-time 4D expressional face capture,” Information Sciences, vol. 545, pp. 331–343, 2021.
 - **S. Zhang**, H. Yu, T. Wang, and J. Dong, “Augmented visual feature modelling for matching in low-visibility based on cycle-labelling of Superpixel Flow,” Knowledge-Based Systems, p. 105699, 2020,
