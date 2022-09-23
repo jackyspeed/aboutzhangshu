@@ -77,6 +77,7 @@ As first / correspondence author:
 
 As co-author:
 
+- X. Wang, E. Rigall, Q. Chen, **S. Zhang** and J. Dong, "Efficient and Stable Cephalometric Landmark Localization Using Two-Stage Heatmaps Regression," in IEEE Transactions on Instrumentation and Measurement, 2022.
 - E. Rigall, X. Wang, Q. Chen, **S. Zhang** and J. Dong, "An RFID Tag Localization Method Based on Hologram Mask and Discrete Cosine Transform," in IEEE Transactions on Instrumentation and Measurement, vol. 71, pp. 1-12, 2022.
 - J. Sun, H. Yu, G. Zhong, J. Dong, **S. Zhang** and H. Yu, "Random Shapley Forests: Cooperative Game-Based Random Forests With Consistency," in IEEE Transactions on Cybernetics, vol. 52, no. 1, pp. 205-214, Jan. 2022.
 - Z. Zhang, J. Dong, Q. Zhao, L. Qi, and **S. Zhang**, “Attention LSTM for Scene Graph Generation,” in 2021 6th International Conference on Image, Vision and Computing (ICIVC), pp. 264–268, 2021.
