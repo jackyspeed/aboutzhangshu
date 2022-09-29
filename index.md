@@ -23,7 +23,7 @@ Shu Zhang is currently a Associate Professor and Postgraduate supervisor with Oc
 
 ## Teaching
 
-Courses:
+### Courses:
 
 - "High-Level Programming Language" for first-grade undergraduates.
 - “Group Robotics Project II" for first-grade undergraduates.
@@ -32,7 +32,7 @@ Courses:
 - "Computer Vision" for first-grade postgraduates.
 - "Web Programming" for international students.
 
-As supervisor for:
+### As supervisor for:
 
 - Undergraduate's thesis writing.
 - SRDP research for undergraduates.
