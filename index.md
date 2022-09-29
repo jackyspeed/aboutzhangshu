@@ -42,13 +42,13 @@ As supervisor for:
 
 ## Fundings
 
-As principal investigator:
+### As principal investigator:
 
 - Research in Dot-Laser Assisted Hand-Held Underwater 3D Sensing via Vision Algorithm, funded by Natural Science Foundation of Hainan Province, China.
 - Research in Deep Learning and Knowledge Graph Augmented Underwater 3D Scene Perception, funded by National Natural Science Foundation of China, China.
 - Research in Deep Learning and SLAM enhanced Human-Robot Interaction for Underwater ROV Control in Virtual Reality,  funded by China Postdoctoral Science Foundation, China.
 
-As participant:
+### As participant:
 
 - Research in Underwater 3D reconstruction, funded by the National Major Scientific Instruments and Equipments Development Project of National Natural Science Foundation of China, China. 
 - Research in VR enhanced Human-Robot Interaction for underwater ROV, funded by the Shandong Provincial Natural Science Foundation, China.
@@ -60,7 +60,7 @@ As participant:
 ## Publications
 
 
-2022:
+### 2022:
 
 - K. Yang, Y. Jiang, L. Qi, H. Fan, **S. Zhang***, and J. Dong, "Visual Semantic SLAM Based on Examination of Moving Consistency in Dynamic Scenes," in the 4th International Conference on Data Intelligence and Security (ICDIS2022), 2022.
 - S. Jiao, **S. Zhang***, F. Gao, T. Wang, "Data Security Search Based on Semi-Supervised Sensitive Classifier," in the 4th International Conference on Data Intelligence and Security (ICDIS2022), 2022.
@@ -69,14 +69,14 @@ As participant:
 - J. Sun, H. Yu, G. Zhong, J. Dong, **S. Zhang** and H. Yu, "Random Shapley Forests: Cooperative Game-Based Random Forests With Consistency," in IEEE Transactions on Cybernetics, vol. 52, no. 1, pp. 205-214, Jan. 2022.
 
 
-2021:
+### 2021:
 
 - **S. Zhang**, T. Wang, G. Li, J. Dong, and H. Yu, “MARS: parallelism-based metrically accurate 3D reconstruction system in real-time,” Journal of Real-Time Image Processing, vol. 18, no. 2, pp. 393–405, 2021.
 - **S. Zhang**, H. Yu, T. Wang, J. Dong, and T. D. Pham, “Linearly augmented real-time 4D expressional face capture,” Information Sciences, vol. 545, pp. 331–343, 2021.
 - Z. Zhang, J. Dong, Q. Zhao, L. Qi, and **S. Zhang**, “Attention LSTM for Scene Graph Generation,” in 2021 6th International Conference on Image, Vision and Computing (ICIVC), pp. 264–268, 2021.
 
 
-2020:
+### 2020:
 
 - **S. Zhang**, H. Yu, T. Wang, and J. Dong, “Augmented visual feature modelling for matching in low-visibility based on cycle-labelling of Superpixel Flow,” Knowledge-Based Systems, p. 105699, 2020,
 - J. Xu, J. Li, **S. Zhang***, C. Xie, and J. Dong, “Skeleton Guided Conflict-Free Hand Gesture Recognition for Robot Control,” in The 11th International Conference on Awareness Science and Technology, 2020.
@@ -84,7 +84,7 @@ As participant:
 - Z. Shi, Q. Lyu, **S. Zhang**, L. Qi, H. Fan, and J. Dong, “A Visual-SLAM based Line Laser Scanning System using Semantically Segmented Images,” in The 11th International Conference on Awareness Science and Technology, 2020.
 
 
-2019:
+### 2019:
 
 - T Wang, **S. Zhang***, L. Liu, G. Wu, and J. Dong, “Automatic Facial Paralysis Evaluation Augmented by A Cascaded Encoder Network Structure,” IEEE Access, vol. 7, pp. 135621–135631, 2019。
 - **S. Zhang**, T. Wang, Y. Peng, and J. Dong, “A Hierarchically Trained Generative Network for Robust Facial Symmetrization,” Technology and Health Care, vol. 27, pp. 217–227, 2019.
@@ -94,13 +94,13 @@ As participant:
 - J. Liu, T. Zhang, Y. Gao, **S. Zhang**, J. Sun, J. Dong, and H. Yu, “Dual Stage Augmented Colorful Texture Synthesis from Hand Sketch,” in Proceedings of the 25th International Conference on Automation & Computing, 2019.
 
 
-2018:
+### 2018:
 
 - **S. Zhang**, H. Yu, T. Wang, L. Qi, J. Dong, and H. Liu, “Dense 3D facial reconstruction from a single depth image in unconstrained environment,” Virtual Reality, vol. 22, no. 1, pp. 37–46, Mar. 2018.
 - T. Wang, **S. Zhang***, J. Dong, and Y. Liang, “A Deep Variational Autoencoder Approach for Robust Facial Symmetrization,” in The British Machine Vision Conference (BMVC), 2018.
 
 
-Before 2017:
+### Before 2017:
 
 - **S. Zhang**, T. Wang, J. Dong, and H. Yu, “Underwater image enhancement via extended multi-scale retinex,” Neurocomputing, vol. 245, pp. 1–9, 2017.
 - **S. Zhang**, J. Dong, and H. Yu, “Automatic 3D Face Recovery from a Single Frame of a RGB-D Sensor,” in The British Machine Vision Conference (BMVC), 2017.
@@ -151,11 +151,11 @@ As co-author:
 
 --->
 
-Patents:
+### Patents:
 
 - 董军宇; 吴则举; 亓琳; 王楠; **张述**; 范浩, 水下高精度三维重建装置及方法, 2018.12.25-2038.12.25, 中国, ZL2016101838227 
 
-Cited by
+### Cited by
 > > <sub>citations</sub> | <sub>highest single article citations</sub> 
 > > ------- | ------- 
 > > <sub>348</sub> | <sub>213</sub> 
@@ -166,7 +166,7 @@ Cited by
 
 ## Academic experience
 
-As international conference pc member / section chair for:
+### As international conference pc member / section chair for:
 
 - 2021 International Conference on Ubiquitous Intelligence and Computing, UIC2021
 - 2020 IEEE International Conference on Awareness Science and Technology, iCAST2020
@@ -177,7 +177,7 @@ As international conference pc member / section chair for:
 - 2018 International Conference on Ubiquitous Intelligence and Computing, UIC2018
 - 2017 International Conference on Ubiquitous Intelligence and Computing, UIC2017
 
-As reviewer for:
+### As reviewer for:
 
 - IEEE Transactions on Human-Machine Systems
 - Neurocomputing
