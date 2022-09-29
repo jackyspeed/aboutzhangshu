@@ -59,6 +59,7 @@ As participant:
 
 ## Publications
 
+
 2022:
 
 - K. Yang, Y. Jiang, L. Qi, H. Fan, **S. Zhang***, and J. Dong, "Visual Semantic SLAM Based on Examination of Moving Consistency in Dynamic Scenes," in the 4th International Conference on Data Intelligence and Security (ICDIS2022), 2022.
@@ -67,11 +68,13 @@ As participant:
 - E. Rigall, X. Wang, Q. Chen, **S. Zhang** and J. Dong, "An RFID Tag Localization Method Based on Hologram Mask and Discrete Cosine Transform," in IEEE Transactions on Instrumentation and Measurement, vol. 71, pp. 1-12, 2022.
 - J. Sun, H. Yu, G. Zhong, J. Dong, **S. Zhang** and H. Yu, "Random Shapley Forests: Cooperative Game-Based Random Forests With Consistency," in IEEE Transactions on Cybernetics, vol. 52, no. 1, pp. 205-214, Jan. 2022.
 
+
 2021:
 
 - **S. Zhang**, T. Wang, G. Li, J. Dong, and H. Yu, “MARS: parallelism-based metrically accurate 3D reconstruction system in real-time,” Journal of Real-Time Image Processing, vol. 18, no. 2, pp. 393–405, 2021.
 - **S. Zhang**, H. Yu, T. Wang, J. Dong, and T. D. Pham, “Linearly augmented real-time 4D expressional face capture,” Information Sciences, vol. 545, pp. 331–343, 2021.
 - Z. Zhang, J. Dong, Q. Zhao, L. Qi, and **S. Zhang**, “Attention LSTM for Scene Graph Generation,” in 2021 6th International Conference on Image, Vision and Computing (ICIVC), pp. 264–268, 2021.
+
 
 2020:
 
@@ -79,6 +82,7 @@ As participant:
 - J. Xu, J. Li, **S. Zhang***, C. Xie, and J. Dong, “Skeleton Guided Conflict-Free Hand Gesture Recognition for Robot Control,” in The 11th International Conference on Awareness Science and Technology, 2020.
 - J. Sun, Z. Wang, H. Yu, **S. Zhang**, Ju. Dong, and P. Gao, “Two-stage deep regression enhanced depth estimation from a single RGB image,” IEEE Transactions on Emerging Topics in Computing, 2020.
 - Z. Shi, Q. Lyu, **S. Zhang**, L. Qi, H. Fan, and J. Dong, “A Visual-SLAM based Line Laser Scanning System using Semantically Segmented Images,” in The 11th International Conference on Awareness Science and Technology, 2020.
+
 
 2019:
 
@@ -89,10 +93,12 @@ As participant:
 - H. Xv, X. Sun, J. Dong, **S. Zhang**, and Q. Li, “Multi-level Similarity Learning for Low-Shot Recognition,” in 2019 Smart World Congress, 2019.
 - J. Liu, T. Zhang, Y. Gao, **S. Zhang**, J. Sun, J. Dong, and H. Yu, “Dual Stage Augmented Colorful Texture Synthesis from Hand Sketch,” in Proceedings of the 25th International Conference on Automation & Computing, 2019.
 
+
 2018:
 
 - **S. Zhang**, H. Yu, T. Wang, L. Qi, J. Dong, and H. Liu, “Dense 3D facial reconstruction from a single depth image in unconstrained environment,” Virtual Reality, vol. 22, no. 1, pp. 37–46, Mar. 2018.
 - T. Wang, **S. Zhang***, J. Dong, and Y. Liang, “A Deep Variational Autoencoder Approach for Robust Facial Symmetrization,” in The British Machine Vision Conference (BMVC), 2018.
+
 
 Before 2017:
 
