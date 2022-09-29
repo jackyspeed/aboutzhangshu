@@ -100,15 +100,19 @@ Shu Zhang is currently a Associate Professor and Postgraduate supervisor with Oc
 - T. Wang, **S. Zhang***, J. Dong, and Y. Liang, “A Deep Variational Autoencoder Approach for Robust Facial Symmetrization,” in The British Machine Vision Conference (BMVC), 2018.
 
 
-### Before 2017:
+### 2017:
 
 - **S. Zhang**, T. Wang, J. Dong, and H. Yu, “Underwater image enhancement via extended multi-scale retinex,” Neurocomputing, vol. 245, pp. 1–9, 2017.
 - **S. Zhang**, J. Dong, and H. Yu, “Automatic 3D Face Recovery from a Single Frame of a RGB-D Sensor,” in The British Machine Vision Conference (BMVC), 2017.
-- **S. Zhang**, J. Dong, and H. Yu, “Feature Matching for Underwater Image via Superpixel Tracking,” in Proceedings of 2017 the 23rd International Conference on Automation and Computing (ICAC), 2017, pp. 1–5.
+- **S. Zhang**, J. Dong, and H. Yu, “Feature Matching for Underwater Image via Superpixel Tracking,” in Proceedings of 2017 the 23rd International Conference on Automation and Computing (ICAC), 2017, pp. 1–5.- 
+- Y. Luo, H. Jiao, L. Qi, J. Dong, **S. Zhang**, and H. Yu, “Augmenting Depth Estimation from Deep Convolutional Neural Network using Multi-Spectral Photometric Stereo,” in Proceedings of the 2017 IEEE International Conference on Ubiquitous Intelligence and Computing, 2017.
+
+
+### Long time ago:
+
+- T. Wang, **S. Zhang**, J. Dong, L. Liu, and H. Yu, “Automatic evaluation of the degree of facial nerve paralysis,” Multimedia tools and applications, vol. 75, no. 19, pp. 11893–11908, 2016.
 - **S. Zhang**, H. Yu, J. Dong, T. Wang, L. Qi, and H. Liu, “Combining Kinect and PnP for camera pose estimation,” in Proceedings of 2015 the 8th IEEE International Conference on Human System Interaction (HSI), 2015, pp. 357–361.
 - **S. Zhang**, H. Yu, J. Dong, T. Wang, Z. Ju, and H. Liu, “Automatic reconstruction of dense 3D face point cloud with a single depth image,” in Proceedings of 2015 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2015, pp. 1439–1444.
-- Y. Luo, H. Jiao, L. Qi, J. Dong, **S. Zhang**, and H. Yu, “Augmenting Depth Estimation from Deep Convolutional Neural Network using Multi-Spectral Photometric Stereo,” in Proceedings of the 2017 IEEE International Conference on Ubiquitous Intelligence and Computing, 2017.
-- T. Wang, **S. Zhang**, J. Dong, L. Liu, and H. Yu, “Automatic evaluation of the degree of facial nerve paralysis,” Multimedia tools and applications, vol. 75, no. 19, pp. 11893–11908, 2016.
 - T. Wang, J. Dong, X. Sun, **S. Zhang**, and S. Wang, “Automatic recognition of facial movement for paralyzed face,” Bio-medical materials and engineering, vol. 24, no. 6, pp. 2751–2760, 2014.
 - T. Wang, L. Qi, J. Dong, **S. Zhang**, and S. Wang, “Facial paralysis grading: are achromatic images sufficient?,” Percept. ECVP Abstr., vol. 43, p. 19, 2014.
 
