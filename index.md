@@ -108,7 +108,7 @@ Shu Zhang is currently a Associate Professor and Postgraduate supervisor with Oc
 - Y. Luo, H. Jiao, L. Qi, J. Dong, **S. Zhang**, and H. Yu, “Augmenting Depth Estimation from Deep Convolutional Neural Network using Multi-Spectral Photometric Stereo,” in Proceedings of the 2017 IEEE International Conference on Ubiquitous Intelligence and Computing, 2017.
 
 
-### Long time ago:
+### Before 2017:
 
 - T. Wang, **S. Zhang**, J. Dong, L. Liu, and H. Yu, “Automatic evaluation of the degree of facial nerve paralysis,” Multimedia tools and applications, vol. 75, no. 19, pp. 11893–11908, 2016.
 - **S. Zhang**, H. Yu, J. Dong, T. Wang, L. Qi, and H. Liu, “Combining Kinect and PnP for camera pose estimation,” in Proceedings of 2015 the 8th IEEE International Conference on Human System Interaction (HSI), 2015, pp. 357–361.
