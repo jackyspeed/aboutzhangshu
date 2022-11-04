@@ -74,6 +74,7 @@ Shu Zhang is currently a Associate Professor and Postgraduate supervisor with Oc
 - **S. Zhang**, T. Wang, G. Li, J. Dong, and H. Yu, “MARS: parallelism-based metrically accurate 3D reconstruction system in real-time,” Journal of Real-Time Image Processing, vol. 18, no. 2, pp. 393–405, 2021.
 - **S. Zhang**, H. Yu, T. Wang, J. Dong, and T. D. Pham, “Linearly augmented real-time 4D expressional face capture,” Information Sciences, vol. 545, pp. 331–343, 2021.
 - Z. Zhang, J. Dong, Q. Zhao, L. Qi, and **S. Zhang**, “Attention LSTM for Scene Graph Generation,” in 2021 6th International Conference on Image, Vision and Computing (ICIVC), pp. 264–268, 2021.
+- N. Jiang, J. Wang, L. Kong, **S. Zhang**, and J. Dong, "Optimization of Underwater Marker Detection Based on YOLOv3," Computer Science, vol. 187, pp. 52-59, 2021.
 
 
 ### 2020:
