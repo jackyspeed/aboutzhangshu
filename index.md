@@ -62,6 +62,7 @@ Shu Zhang is currently a Associate Professor and Postgraduate supervisor with Oc
 
 ### 2022:
 
+- J. Ouyang, Q. Lv, **S. Zhang***, J. Dong, "Energy Transfer Contrast Network for Unsupervised Domain Adaption," in the 29th International Conference on MultiMedia Modeling (MMM2023), 2022.
 - K. Yang, Y. Jiang, L. Qi, H. Fan, **S. Zhang***, and J. Dong, "Visual Semantic SLAM Based on Examination of Moving Consistency in Dynamic Scenes," in the 4th International Conference on Data Intelligence and Security (ICDIS2022), 2022.
 - S. Jiao, **S. Zhang***, F. Gao, T. Wang, "Data Security Search Based on Semi-Supervised Sensitive Classifier," in the 4th International Conference on Data Intelligence and Security (ICDIS2022), 2022.
 - X. Wang, E. Rigall, Q. Chen, **S. Zhang** and J. Dong, "Efficient and Stable Cephalometric Landmark Localization Using Two-Stage Heatmaps Regression," in IEEE Transactions on Instrumentation and Measurement, 2022.
