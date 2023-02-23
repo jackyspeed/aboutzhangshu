@@ -60,6 +60,11 @@ Shu Zhang is currently a Associate Professor and Postgraduate supervisor with Oc
 ## Publications
 
 
+### 2023:
+
+- E. Rigall, X. Wang, **S. Zhang**, and J. Dong, "A fast and accurate RFID tag positioning method based on AoA hologram and hashtables," Computer Communications, 202, pp. 135–144, 2023. https://doi.org/10.1016/J.COMCOM.2023.01.020.
+
+
 ### 2022:
 
 - J. Ouyang, Q. Lv, **S. Zhang***, J. Dong, "Energy Transfer Contrast Network for Unsupervised Domain Adaption," in the 29th International Conference on MultiMedia Modeling (MMM2023), 2022.
