@@ -180,6 +180,7 @@ As co-author:
 
 ### As international conference pc member / section chair for:
 
+- 2023 International Conference on Ubiquitous Intelligence and Computing, UIC2023
 - 2021 International Conference on Ubiquitous Intelligence and Computing, UIC2021
 - 2020 IEEE International Conference on Awareness Science and Technology, iCAST2020
 - 2020 IEEE International Conference on Trust, Security and Privacy in Computing and Communications, TrustCom2020
