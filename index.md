@@ -63,11 +63,10 @@ Shu Zhang is currently a Associate Professor and Postgraduate supervisor with Oc
 ### 2023:
 
 - E. Rigall, X. Wang, **S. Zhang**, and J. Dong, "A fast and accurate RFID tag positioning method based on AoA hologram and hashtables," Computer Communications, vol. 202, pp. 135–144, 2023.
-
+- J. Ouyang, Q. Lv, **S. Zhang***, J. Dong, "Energy Transfer Contrast Network for Unsupervised Domain Adaption." In MultiMedia Modeling: 29th International Conference, MMM 2023, Bergen, Norway, January 9–12, 2023, Proceedings, Part II, pp. 115-126. Cham: Springer Nature Switzerland, 2023.
 
 ### 2022:
 
-- J. Ouyang, Q. Lv, **S. Zhang***, J. Dong, "Energy Transfer Contrast Network for Unsupervised Domain Adaption," in the 29th International Conference on MultiMedia Modeling (MMM2023), 2022.
 - K. Yang, Y. Jiang, L. Qi, H. Fan, **S. Zhang***, and J. Dong, "Visual Semantic SLAM Based on Examination of Moving Consistency in Dynamic Scenes," in the 4th International Conference on Data Intelligence and Security (ICDIS2022), 2022.
 - S. Jiao, **S. Zhang***, F. Gao, T. Wang, "Data Security Search Based on Semi-Supervised Sensitive Classifier," in the 4th International Conference on Data Intelligence and Security (ICDIS2022), 2022.
 - X. Wang, E. Rigall, Q. Chen, **S. Zhang** and J. Dong, "Efficient and Stable Cephalometric Landmark Localization Using Two-Stage Heatmaps Regression," in IEEE Transactions on Instrumentation and Measurement, 2022.
