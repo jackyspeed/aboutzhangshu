@@ -63,7 +63,7 @@ Shu Zhang is currently a Associate Professor and Postgraduate supervisor with Oc
 ### 2023:
 
 - J. Leng, Q. Lv, **S. Zhang**, Y. Rao, Y. Liu, H. Fan, "Multilevel Inverse Patchmatch Network with Local and Global Refinement for Underwater Stereo Matching," Journal of Marine Science and Engineering, vol. 11, no. 5, pp. 930, 2023.
-- E. Rigall, X. Wang, , and J. Dong, "A fast and accurate RFID tag positioning method based on AoA hologram and hashtables," Computer Communications, vol. 202, pp. 135–144, 2023.
+- E. Rigall, X. Wang, **S. Zhang**, and J. Dong, "A fast and accurate RFID tag positioning method based on AoA hologram and hashtables," Computer Communications, vol. 202, pp. 135–144, 2023.
 - J. Ouyang, Q. Lv, **S. Zhang***, J. Dong, "Energy Transfer Contrast Network for Unsupervised Domain Adaption." In MultiMedia Modeling: 29th International Conference, MMM 2023, Bergen, Norway, January 9–12, 2023, Proceedings, Part II, pp. 115-126. Cham: Springer Nature Switzerland, 2023.
 
 ### 2022:
