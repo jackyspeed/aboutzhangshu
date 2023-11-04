@@ -99,6 +99,7 @@ Shu Zhang is currently a Associate Professor and Postgraduate supervisor with Oc
 - S. Han, X. Sun, J. Dong, **S. Zhang**, and Q. Li, “PhytoGAN: Unpaired Dead-to-Live Phytoplankton Translation,” in 2019 Smart World Congress, 2019.
 - H. Xv, X. Sun, J. Dong, **S. Zhang**, and Q. Li, “Multi-level Similarity Learning for Low-Shot Recognition,” in 2019 Smart World Congress, 2019.
 - J. Liu, T. Zhang, Y. Gao, **S. Zhang**, J. Sun, J. Dong, and H. Yu, “Dual Stage Augmented Colorful Texture Synthesis from Hand Sketch,” in Proceedings of the 25th International Conference on Automation & Computing, 2019.
+- J. Liu, T. Zhang, Y. Gao, **S. Zhang**, J. Sun, J. Dong, and H. Yu, "Dual stage augmented colorful texture synthesis from hand sketch," in Proceedings of the 2019 25th IEEE International Conference on Automation and Computing (ICAC2019), 2019.
 
 
 ### 2018:
@@ -112,7 +113,7 @@ Shu Zhang is currently a Associate Professor and Postgraduate supervisor with Oc
 - **S. Zhang**, T. Wang, J. Dong, and H. Yu, “Underwater image enhancement via extended multi-scale retinex,” Neurocomputing, vol. 245, pp. 1–9, 2017.
 - **S. Zhang**, J. Dong, and H. Yu, “Automatic 3D Face Recovery from a Single Frame of a RGB-D Sensor,” in The British Machine Vision Conference (BMVC), 2017.
 - **S. Zhang**, J. Dong, and H. Yu, “Feature Matching for Underwater Image via Superpixel Tracking,” in Proceedings of 2017 the 23rd International Conference on Automation and Computing (ICAC), 2017, pp. 1–5.- 
-- Y. Luo, H. Jiao, L. Qi, J. Dong, **S. Zhang**, and H. Yu, “Augmenting Depth Estimation from Deep Convolutional Neural Network using Multi-Spectral Photometric Stereo,” in Proceedings of the 2017 IEEE International Conference on Ubiquitous Intelligence and Computing, 2017.
+- Y. Luo, H. Jiao, L. Qi, J. Dong, **S. Zhang**, and H. Yu, “Augmenting Depth Estimation from Deep Convolutional Neural Network using Multi-Spectral Photometric Stereo,” in Proceedings of the 2017 IEEE International Conference on Ubiquitous Intelligence and Computing (UIC2017), 2017.
 
 
 ### Before 2017:
