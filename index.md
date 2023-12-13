@@ -63,7 +63,9 @@ Shu Zhang is currently a Associate Professor and Postgraduate supervisor with Oc
 
 ### 2023:
 
-- B. Zhang, J. Dong, **S. Zhang**, Eric Rigall, "A Method for Breast Mass Segmentation using Image Augmentation with SAM and Receptive Field Expansion," in Proceedings of International Conference on Computing and Pattern Recognition (ICCPR2023), 2023.
+- J. Liu, X. Wang, **S. Zhang**, J. Dong, "DESNTC: Transformer-Based Double Shift Network for Breast Histopathological Image Classification," in Proceedings of 2023 IEEE Smart World Congress (SWC), 2023.
+- X. Wang, E. Rigall, X. An, **S. Zhang**, H. Yu, J. Dong, "A Method for X-ray Image Landmarks Localization using Cyclic Coordinate-guided Strategy," in Proceedings of 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023.
+- B. Zhang, J. Dong, **S. Zhang**, E. Rigall, "A Method for Breast Mass Segmentation using Image Augmentation with SAM and Receptive Field Expansion," in Proceedings of International Conference on Computing and Pattern Recognition (ICCPR2023), 2023.
 - J. Leng, Q. Lv, **S. Zhang**, Y. Rao, Y. Liu, H. Fan, "Multilevel Inverse Patchmatch Network with Local and Global Refinement for Underwater Stereo Matching," Journal of Marine Science and Engineering, vol. 11, no. 5, pp. 930, 2023.
 - E. Rigall, X. Wang, **S. Zhang**, and J. Dong, "A fast and accurate RFID tag positioning method based on AoA hologram and hashtables," Computer Communications, vol. 202, pp. 135–144, 2023.
 - J. Ouyang, Q. Lv, **S. Zhang***, J. Dong, "Energy Transfer Contrast Network for Unsupervised Domain Adaption," In MultiMedia Modeling: 29th International Conference, MMM 2023, Bergen, Norway, January 9–12, 2023, Proceedings, Part II, pp. 115-126. Cham: Springer Nature Switzerland, 2023.
