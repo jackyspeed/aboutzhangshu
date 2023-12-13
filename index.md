@@ -63,6 +63,7 @@ Shu Zhang is currently a Associate Professor and Postgraduate supervisor with Oc
 
 ### 2023:
 
+- J. Sun, S. Guo, J. Dong, **S. Zhang**, "A Multi-Task Interaction Mechanism for 3D Hand Pose Estimation From RGB Image," in Proceedings of 2023 IEEE Smart World Congress (SWC), 2023.
 - J. Liu, X. Wang, **S. Zhang**, J. Dong, "DESNTC: Transformer-Based Double Shift Network for Breast Histopathological Image Classification," in Proceedings of 2023 IEEE Smart World Congress (SWC), 2023.
 - X. Wang, E. Rigall, X. An, **S. Zhang**, H. Yu, J. Dong, "A Method for X-ray Image Landmarks Localization using Cyclic Coordinate-guided Strategy," in Proceedings of 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023.
 - B. Zhang, J. Dong, **S. Zhang**, E. Rigall, "A Method for Breast Mass Segmentation using Image Augmentation with SAM and Receptive Field Expansion," in Proceedings of International Conference on Computing and Pattern Recognition (ICCPR2023), 2023.
