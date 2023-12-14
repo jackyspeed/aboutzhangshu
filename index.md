@@ -27,6 +27,7 @@ Shu Zhang is currently a Associate Professor and Postgraduate supervisor with Oc
 
 - "High-Level Programming Language" for first-grade undergraduates.
 - “Group Robotics Project II" for first-grade undergraduates.
+- “Deep Learning Introduction" for first-grade undergraduates.
 - "Compiler Principle" for third-grade undergraduates.
 - "Computer Image Processing and Pattern Recognition" for first-grade postgraduates.
 - "Computer Vision" for first-grade postgraduates.
