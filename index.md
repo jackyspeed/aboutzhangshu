@@ -180,7 +180,7 @@ As co-author:
 ### Cited by
 > > <sub>citations</sub> | <sub>highest single article citations</sub> 
 > > ------- | ------- 
-> > <sub>511</sub> | <sub>312</sub> 
+> > <sub>527</sub> | <sub>323</sub> 
 >
 > <sub>Metrics are evaluated by Google Scholar.</sub>
 
