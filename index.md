@@ -65,7 +65,7 @@ Shu Zhang is currently an Associate Professor and Postgraduate supervisor at Oce
 ### 2023:
 
 - J. OuYang, **S. Zhang***, J. Dong, T. Wang, J. Jiang, "Cross Domain Class-Aware Clustering Partial Domain Adaptation," in Proceedings of The 20th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC2023), 2023.
-- Y. Xiang, J. OuYang, Z. Huang, H. Yu, J. Dong, **S. Zhang***, "BABIT*: a Bidirectional Advanced BIT* for Fast Path Planning with Implicit Random Geometric Graph," in Proceedings of The International Workshop on Advanced Image Technology 2024 (IWAIT2024), 2023.
+- Y. Xiang, J. OuYang, Z. Huang, H. Yu, J. Dong, **S. Zhang**\*, "BABIT\*: a Bidirectional Advanced BIT* for Fast Path Planning with Implicit Random Geometric Graph," in Proceedings of The International Workshop on Advanced Image Technology 2024 (IWAIT2024), 2023.
 - J. Sun, S. Guo, J. Dong, **S. Zhang**, "A Multi-Task Interaction Mechanism for 3D Hand Pose Estimation From RGB Image," in Proceedings of The 20th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC2023), 2023.
 - J. Liu, X. Wang, **S. Zhang**, J. Dong, "DESNTC: Transformer-Based Double Shift Network for Breast Histopathological Image Classification," in Proceedings of The 20th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC2023), 2023.
 - X. Wang, E. Rigall, X. An, **S. Zhang**, H. Yu, J. Dong, "A Method for X-ray Image Landmarks Localization using Cyclic Coordinate-guided Strategy," in Proceedings of 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023.
