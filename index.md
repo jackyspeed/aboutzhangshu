@@ -64,7 +64,7 @@ Shu Zhang is currently an Associate Professor and Postgraduate supervisor at Oce
 
 ### 2024:
 
-- X. Wang, E. Rigall, X. An, **S. Zhang**, H. Yu, J. Dong, "A Method for X-Ray Image Landmarks Localization using Cyclic Coordinate-Guided Strategy," 2024 IEEE International Conference on Acoustics, Speech and Signal Processing, 2024.
+- X. Wang, E. Rigall, X. An, **S. Zhang**, H. Yu, J. Dong, "A Method for X-Ray Image Landmarks Localization using Cyclic Coordinate-Guided Strategy," in the 2024 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2024), 2024.
 - J. Song, J. Li, H. Fan, L. Qi, **S. Zhang**, Y. Chen, J. Dong, "Real-Scale 3D Reconstruction with Monocular Zoom Technology," IEEE Transactions on Instrumentation and Measurement, 2024.
 
 ### 2023:
