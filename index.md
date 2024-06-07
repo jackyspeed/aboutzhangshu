@@ -72,8 +72,8 @@ Shu Zhang is currently an Associate Professor and Postgraduate supervisor at Oce
 
 - J. OuYang, **S. Zhang***, J. Dong, T. Wang, J. Jiang, "Cross Domain Class-Aware Clustering Partial Domain Adaptation," in Proceedings of The 20th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC2023), 2023.
 - Y. Xiang, J. OuYang, Z. Huang, H. Yu, J. Dong, **S. Zhang**\*, "BABIT\*: a Bidirectional Advanced BIT* for Fast Path Planning with Implicit Random Geometric Graph," in Proceedings of The International Workshop on Advanced Image Technology 2024 (IWAIT2024), 2023.
-- J. Sun, S. Guo, J. Dong, **S. Zhang**, "A Multi-Task Interaction Mechanism for 3D Hand Pose Estimation From RGB Image," in Proceedings of The 20th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC2023), 2023.
-- J. Liu, X. Wang, **S. Zhang**, J. Dong, "DESNTC: Transformer-Based Double Shift Network for Breast Histopathological Image Classification," in Proceedings of The 20th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC2023), 2023.
+- J. Sun, S. Guo, J. Dong, **S. Zhang***, "A Multi-Task Interaction Mechanism for 3D Hand Pose Estimation From RGB Image," in Proceedings of The 20th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC2023), 2023.
+- J. Liu, X. Wang, **S. Zhang***, J. Dong, "DESNTC: Transformer-Based Double Shift Network for Breast Histopathological Image Classification," in Proceedings of The 20th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC2023), 2023.
 - X. Wang, E. Rigall, X. An, **S. Zhang**, H. Yu, J. Dong, "A Method for X-ray Image Landmarks Localization using Cyclic Coordinate-guided Strategy," in Proceedings of 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023.
 - B. Zhang, J. Dong, **S. Zhang***, E. Rigall, "A Method for Breast Mass Segmentation using Image Augmentation with SAM and Receptive Field Expansion," in Proceedings of International Conference on Computing and Pattern Recognition (ICCPR2023), 2023.
 - J. Leng, Q. Lv, **S. Zhang**, Y. Rao, Y. Liu, H. Fan, "Multilevel Inverse Patchmatch Network with Local and Global Refinement for Underwater Stereo Matching," Journal of Marine Science and Engineering, vol. 11, no. 5, pp. 930, 2023.
@@ -189,7 +189,7 @@ As co-author:
 ### Cited by
 > > <sub>citations</sub> | <sub>highest single article citations</sub> 
 > > ------- | ------- 
-> > <sub>566</sub> | <sub>338</sub> 
+> > <sub>657</sub> | <sub>352</sub> 
 >
 > <sub>Metrics are evaluated by Google Scholar.</sub>
 
