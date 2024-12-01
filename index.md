@@ -191,7 +191,7 @@ As co-author:
 ### Cited by
 > > <sub>citations</sub> | <sub>highest single article citations</sub> 
 > > ------- | ------- 
-> > <sub>657</sub> | <sub>352</sub> 
+> > <sub>1003</sub> | <sub>383</sub> 
 >
 > <sub>Metrics are evaluated by Google Scholar.</sub>
 
