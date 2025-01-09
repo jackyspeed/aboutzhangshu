@@ -64,6 +64,7 @@ Shu Zhang is currently an Associate Professor and Postgraduate supervisor at Oce
 
 ### 2024:
 
+- Z. Hu, M. Zhang, Z. Song, W. Wang, H. Yu, T. Wang, Q. Cai, **S. Zhang***, “Dynamic Graph Structure-Based Point Cloud Complementation for Real Underwater Scene，” Current Science, 2024.
 - N. Yi, S. Guo, Q. Lv, T. Wang, **S. Zhang***, J. Dong, "Multi-head Attention Mechanism and Dynamic Semantic Graph Convolution for Facial Action Unit Intensity Estimation," in Proceedings of the 2024 International Conference on Identification, Information and Knowledge in the Internet of Things (IIKI2024), 2024. 
 - X. Han, J. Sun, **S. Zhang***, J. Dong, H. Yu, “Sonar-Based Simultaneous Localization and Mapping Using the Semi-Direct Method,” Journal of Marine Science and Engineering, vol. 12, no. 12, 2024.
 - Q. Lv, Y. Li, J, Dong, S. Chen, H. Yu, H. Zhou, **S. Zhang**, "DomainForensics: Exposing Face Forgery across Domains via Bi-directional Adaptation," IEEE Transactions on Information Forensics and Security, vol. 19, pp. 7275-7289, 2024.
