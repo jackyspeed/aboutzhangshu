@@ -62,6 +62,10 @@ Shu Zhang is currently an Associate Professor and Postgraduate supervisor at Oce
 ## Publications
 
 
+### 2025:
+
+- M. Zhang, Z. Hu, T. Zhang, X. Han, Z. Wei, **S. Zhang***, J. Dong, “Learning Neural Implicit Surfaces from Sonar Image based on Signed Distance Functions combined with Occupancy Representation，” Expert Systems With Applications, 2025.
+
 ### 2024:
 
 - Z. Hu, M. Zhang, Z. Song, W. Wang, H. Yu, T. Wang, Q. Cai, **S. Zhang***, “Dynamic Graph Structure-Based Point Cloud Complementation for Real Underwater Scene，” Current Science, Vol. 4, No. 6, 2024.
