@@ -64,7 +64,7 @@ Shu Zhang is currently an Associate Professor and Postgraduate supervisor at Oce
 
 ### 2025:
 
-- M. Zhang, Z. Hu, T. Zhang, X. Han, Z. Wei, **S. Zhang***, J. Dong, "Learning Neural Implicit Surfaces from Sonar Image based on Signed Distance Functions combined with Occupancy Representation," Expert Systems With Applications, Vol. 270, 2025. <a href="[url](https://www.sciencedirect.com/science/article/abs/pii/S0957417425001277)" target="_blank">_</a>
+- M. Zhang, Z. Hu, T. Zhang, X. Han, Z. Wei, **S. Zhang***, J. Dong, "Learning Neural Implicit Surfaces from Sonar Image based on Signed Distance Functions combined with Occupancy Representation," Expert Systems With Applications, Vol. 270, 2025. [_](https://www.sciencedirect.com/science/article/abs/pii/S0957417425001277?_blank)
 
 ### 2024:
 
