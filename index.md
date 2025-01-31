@@ -92,8 +92,8 @@ Shu Zhang is currently an Associate Professor and Postgraduate supervisor at Oce
 
 ### 2022:
 
-- K. Yang, Y. Jiang, L. Qi, H. Fan, **S. Zhang***, and J. Dong, "Visual Semantic SLAM Based on Examination of Moving Consistency in Dynamic Scenes," in the 4th International Conference on Data Intelligence and Security (ICDIS2022), 2022.
-- S. Jiao, **S. Zhang***, F. Gao, T. Wang, "Data Security Search Based on Semi-Supervised Sensitive Classifier," in the 4th International Conference on Data Intelligence and Security (ICDIS2022), 2022.
+- K. Yang, Y. Jiang, L. Qi, H. Fan, **S. Zhang***, and J. Dong, "Visual Semantic SLAM Based on Examination of Moving Consistency in Dynamic Scenes," in the 4th International Conference on Data Intelligence and Security (ICDIS2022), 2022. [_](https://ieeexplore.ieee.org/document/9984881)
+- S. Jiao, **S. Zhang***, F. Gao, T. Wang, "Data Security Search Based on Semi-Supervised Sensitive Classifier," in the 4th International Conference on Data Intelligence and Security (ICDIS2022), 2022. [_](https://ieeexplore.ieee.org/abstract/document/9984873)
 - X. Wang, E. Rigall, Q. Chen, **S. Zhang** and J. Dong, "Efficient and Stable Cephalometric Landmark Localization Using Two-Stage Heatmaps Regression," in IEEE Transactions on Instrumentation and Measurement, 2022.
 - E. Rigall, X. Wang, Q. Chen, **S. Zhang** and J. Dong, "An RFID Tag Localization Method Based on Hologram Mask and Discrete Cosine Transform," in IEEE Transactions on Instrumentation and Measurement, vol. 71, pp. 1-12, 2022.
 - J. Sun, H. Yu, G. Zhong, J. Dong, **S. Zhang** and H. Yu, "Random Shapley Forests: Cooperative Game-Based Random Forests With Consistency," in IEEE Transactions on Cybernetics, vol. 52, no. 1, pp. 205-214, Jan. 2022.
@@ -101,15 +101,15 @@ Shu Zhang is currently an Associate Professor and Postgraduate supervisor at Oce
 
 ### 2021:
 
-- **S. Zhang**, T. Wang, G. Li, J. Dong, and H. Yu, “MARS: parallelism-based metrically accurate 3D reconstruction system in real-time,” Journal of Real-Time Image Processing, vol. 18, no. 2, pp. 393–405, 2021.
-- **S. Zhang**, H. Yu, T. Wang, J. Dong, and T. D. Pham, “Linearly augmented real-time 4D expressional face capture,” Information Sciences, vol. 545, pp. 331–343, 2021.
+- **S. Zhang**, T. Wang, G. Li, J. Dong, and H. Yu, “MARS: parallelism-based metrically accurate 3D reconstruction system in real-time,” Journal of Real-Time Image Processing, vol. 18, no. 2, pp. 393–405, 2021. [_](https://link.springer.com/article/10.1007/s11554-020-01031-5)
+- **S. Zhang**, H. Yu, T. Wang, J. Dong, and T. D. Pham, “Linearly augmented real-time 4D expressional face capture,” Information Sciences, vol. 545, pp. 331–343, 2021. [_](https://www.sciencedirect.com/science/article/abs/pii/S0020025520308355)
 - Z. Zhang, J. Dong, Q. Zhao, L. Qi, and **S. Zhang**, “Attention LSTM for Scene Graph Generation,” in 2021 6th International Conference on Image, Vision and Computing (ICIVC), pp. 264–268, 2021.
 - N. Jiang, J. Wang, L. Kong, **S. Zhang**, and J. Dong, "Optimization of Underwater Marker Detection Based on YOLOv3," Computer Science, vol. 187, pp. 52-59, 2021.
 
 
 ### 2020:
 
-- **S. Zhang**, H. Yu, T. Wang, and J. Dong, “Augmented visual feature modelling for matching in low-visibility based on cycle-labelling of Superpixel Flow,” Knowledge-Based Systems, p. 105699, 2020,
+- **S. Zhang**, H. Yu, T. Wang, and J. Dong, “Augmented visual feature modelling for matching in low-visibility based on cycle-labelling of Superpixel Flow,” Knowledge-Based Systems, p. 105699, 2020. [_](https://www.sciencedirect.com/science/article/abs/pii/S0950705120301301)
 - J. Xu, J. Li, **S. Zhang***, C. Xie, and J. Dong, “Skeleton Guided Conflict-Free Hand Gesture Recognition for Robot Control,” in The 11th International Conference on Awareness Science and Technology, 2020.
 - J. Sun, Z. Wang, H. Yu, **S. Zhang**, Ju. Dong, and P. Gao, “Two-stage deep regression enhanced depth estimation from a single RGB image,” IEEE Transactions on Emerging Topics in Computing, 2020.
 - Z. Shi, Q. Lyu, **S. Zhang**, L. Qi, H. Fan, and J. Dong, “A Visual-SLAM based Line Laser Scanning System using Semantically Segmented Images,” in The 11th International Conference on Awareness Science and Technology, 2020.
