@@ -64,15 +64,15 @@ Shu Zhang is currently an Associate Professor and Postgraduate supervisor at Oce
 
 ### 2025:
 
-- M. Zhang, Z. Hu, T. Zhang, X. Han, Z. Wei, **S. Zhang***, J. Dong, "Learning Neural Implicit Surfaces from Sonar Image based on Signed Distance Functions combined with Occupancy Representation," Expert Systems With Applications, Vol. 270, 2025. [_](https://www.sciencedirect.com/science/article/abs/pii/S0957417425001277){target="_blank"}
+- M. Zhang, Z. Hu, T. Zhang, X. Han, Z. Wei, **S. Zhang***, J. Dong, "Learning Neural Implicit Surfaces from Sonar Image based on Signed Distance Functions combined with Occupancy Representation," Expert Systems With Applications, Vol. 270, 2025. [_](https://www.sciencedirect.com/science/article/abs/pii/S0957417425001277)
 
 ### 2024:
 
-- Z. Hu, M. Zhang, Z. Song, W. Wang, H. Yu, T. Wang, Q. Cai, **S. Zhang***, “Dynamic Graph Structure-Based Point Cloud Complementation for Real Underwater Scene，” Current Science, Vol. 4, No. 6, 2024.
+- Z. Hu, M. Zhang, Z. Song, W. Wang, H. Yu, T. Wang, Q. Cai, **S. Zhang***, “Dynamic Graph Structure-Based Point Cloud Complementation for Real Underwater Scene，” Current Science, Vol. 4, No. 6, 2024. [_](https://currentscience.info/index.php/cs/article/view/279)
 - N. Yi, S. Guo, Q. Lv, T. Wang, **S. Zhang***, J. Dong, "Multi-head Attention Mechanism and Dynamic Semantic Graph Convolution for Facial Action Unit Intensity Estimation," in Proceedings of the 2024 International Conference on Identification, Information and Knowledge in the Internet of Things (IIKI2024), 2024. 
-- X. Han, J. Sun, **S. Zhang***, J. Dong, H. Yu, “Sonar-Based Simultaneous Localization and Mapping Using the Semi-Direct Method,” Journal of Marine Science and Engineering, vol. 12, no. 12, 2024.
+- X. Han, J. Sun, **S. Zhang***, J. Dong, H. Yu, “Sonar-Based Simultaneous Localization and Mapping Using the Semi-Direct Method,” Journal of Marine Science and Engineering, vol. 12, no. 12, 2024. [_](https://www.mdpi.com/2077-1312/12/12/2234)
 - Q. Lv, Y. Li, J, Dong, S. Chen, H. Yu, H. Zhou, **S. Zhang**, "DomainForensics: Exposing Face Forgery across Domains via Bi-directional Adaptation," IEEE Transactions on Information Forensics and Security, vol. 19, pp. 7275-7289, 2024.
-- C. Si, **S. Zhang***, C. Qing, T. Zhang, M. Zhang, X. Han, J. Dong, "WTCRNet: a wavelet transform and contrastive regularization network for sonar denoising by self-supervision," Intelligent Marine Technology and Systems, vol. 2, no. 17, 2024.
+- C. Si, **S. Zhang***, C. Qing, T. Zhang, M. Zhang, X. Han, J. Dong, "WTCRNet: a wavelet transform and contrastive regularization network for sonar denoising by self-supervision," Intelligent Marine Technology and Systems, vol. 2, no. 17, 2024. [_](https://link.springer.com/article/10.1007/s44295-024-00032-5)
 - X. Wang, E. Rigall, X. An, Z. Li, Q. Cai, **S. Zhang**, J. Dong, "A New Benchmark and Low Computational Cost Localization Method for Cephalometric Analysis," IEEE Transactions on Circuits and Systems for Video Technology, 2024.
 - X. Wang, E. Rigall, X. An, **S. Zhang**, H. Yu, J. Dong, "A Method for X-Ray Image Landmarks Localization using Cyclic Coordinate-Guided Strategy," in Proceedings of the 2024 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2024), 2024.
 - J. Song, J. Li, H. Fan, L. Qi, **S. Zhang**, Y. Chen, J. Dong, "Real-Scale 3D Reconstruction with Monocular Zoom Technology," IEEE Transactions on Instrumentation and Measurement, 2024.
@@ -80,15 +80,15 @@ Shu Zhang is currently an Associate Professor and Postgraduate supervisor at Oce
 
 ### 2023:
 
-- J. OuYang, **S. Zhang***, J. Dong, T. Wang, J. Jiang, "Cross Domain Class-Aware Clustering Partial Domain Adaptation," in Proceedings of The 20th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC2023), 2023.
+- J. OuYang, **S. Zhang***, J. Dong, T. Wang, J. Jiang, "Cross Domain Class-Aware Clustering Partial Domain Adaptation," in Proceedings of The 20th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC2023), 2023. [_](https://ieeexplore.ieee.org/document/10449179)
 - Y. Xiang, J. OuYang, Z. Huang, H. Yu, J. Dong, **S. Zhang**\*, "BABIT\*: a Bidirectional Advanced BIT* for Fast Path Planning with Implicit Random Geometric Graph," in Proceedings of The International Workshop on Advanced Image Technology 2024 (IWAIT2024), 2023.
-- J. Sun, S. Guo, J. Dong, **S. Zhang***, "A Multi-Task Interaction Mechanism for 3D Hand Pose Estimation From RGB Image," in Proceedings of The 20th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC2023), 2023.
+- J. Sun, S. Guo, J. Dong, **S. Zhang***, "A Multi-Task Interaction Mechanism for 3D Hand Pose Estimation From RGB Image," in Proceedings of The 20th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC2023), 2023. [_](https://ieeexplore.ieee.org/document/10448989)
 - J. Liu, X. Wang, **S. Zhang***, J. Dong, "DESNTC: Transformer-Based Double Shift Network for Breast Histopathological Image Classification," in Proceedings of The 20th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC2023), 2023.
 - X. Wang, E. Rigall, X. An, **S. Zhang**, H. Yu, J. Dong, "A Method for X-ray Image Landmarks Localization using Cyclic Coordinate-guided Strategy," in Proceedings of 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023.
-- B. Zhang, E.c Rigall, Y. Huang, X. Zou, **S. Zhang***, J. Dong, H. Yu, "A Method for Breast Mass Segmentation using Image Augmentation with SAM and Receptive Field Expansion," in Proceedings of International Conference on Computing and Pattern Recognition (ICCPR2023), 2023.
+- B. Zhang, E.c Rigall, Y. Huang, X. Zou, **S. Zhang***, J. Dong, H. Yu, "A Method for Breast Mass Segmentation using Image Augmentation with SAM and Receptive Field Expansion," in Proceedings of International Conference on Computing and Pattern Recognition (ICCPR2023), 2023. [_](https://dl.acm.org/doi/10.1145/3633637.3633698)
 - J. Leng, Q. Lv, **S. Zhang**, Y. Rao, Y. Liu, H. Fan, "Multilevel Inverse Patchmatch Network with Local and Global Refinement for Underwater Stereo Matching," Journal of Marine Science and Engineering, vol. 11, no. 5, pp. 930, 2023.
 - E. Rigall, X. Wang, **S. Zhang**, and J. Dong, "A fast and accurate RFID tag positioning method based on AoA hologram and hashtables," Computer Communications, vol. 202, pp. 135–144, 2023.
-- J. Ouyang, Q. Lv, **S. Zhang***, J. Dong, "Energy Transfer Contrast Network for Unsupervised Domain Adaption," In MultiMedia Modeling: 29th International Conference, MMM 2023, Bergen, Norway, January 9–12, 2023, Proceedings, Part II, pp. 115-126. Cham: Springer Nature Switzerland, 2023.
+- J. Ouyang, Q. Lv, **S. Zhang***, J. Dong, "Energy Transfer Contrast Network for Unsupervised Domain Adaption," In MultiMedia Modeling: 29th International Conference, MMM 2023, Bergen, Norway, January 9–12, 2023, Proceedings, Part II, pp. 115-126. Cham: Springer Nature Switzerland, 2023. [_](https://dl.acm.org/doi/abs/10.1007/978-3-031-27818-1_10)
 
 ### 2022:
 
