@@ -133,9 +133,9 @@ Shu Zhang is currently an Associate Professor and Postgraduate supervisor at Oce
 
 ### 2017:
 
-- **S. Zhang**, T. Wang, J. Dong, and H. Yu, “Underwater image enhancement via extended multi-scale retinex,” Neurocomputing, vol. 245, pp. 1–9, 2017.
+- **S. Zhang**, T. Wang, J. Dong, and H. Yu, “Underwater image enhancement via extended multi-scale retinex,” Neurocomputing, vol. 245, pp. 1–9, 2017. [_](https://www.sciencedirect.com/science/article/pii/S0925231217305246)
 - **S. Zhang**, J. Dong, and H. Yu, “Automatic 3D Face Recovery from a Single Frame of a RGB-D Sensor,” in The British Machine Vision Conference (BMVC), 2017.
-- **S. Zhang**, J. Dong, and H. Yu, “Feature Matching for Underwater Image via Superpixel Tracking,” in Proceedings of 2017 the 23rd International Conference on Automation and Computing (ICAC), 2017, pp. 1–5.- 
+- **S. Zhang**, J. Dong, and H. Yu, “Feature Matching for Underwater Image via Superpixel Tracking,” in Proceedings of 2017 the 23rd International Conference on Automation and Computing (ICAC), 2017, pp. 1–5. [_](https://ieeexplore.ieee.org/document/8081988)
 - Y. Luo, H. Jiao, L. Qi, J. Dong, **S. Zhang**, and H. Yu, “Augmenting Depth Estimation from Deep Convolutional Neural Network using Multi-Spectral Photometric Stereo,” in Proceedings of the 2017 IEEE International Conference on Ubiquitous Intelligence and Computing (UIC2017), 2017.
 
 
