@@ -94,7 +94,7 @@ Shu Zhang is currently an Associate Professor and Postgraduate supervisor at Oce
 
 - K. Yang, Y. Jiang, L. Qi, H. Fan, **S. Zhang***, and J. Dong, "Visual Semantic SLAM Based on Examination of Moving Consistency in Dynamic Scenes," in the 4th International Conference on Data Intelligence and Security (ICDIS2022), 2022. [_](https://ieeexplore.ieee.org/document/9984881)
 - S. Jiao, **S. Zhang***, F. Gao, T. Wang, "Data Security Search Based on Semi-Supervised Sensitive Classifier," in the 4th International Conference on Data Intelligence and Security (ICDIS2022), 2022. [_](https://ieeexplore.ieee.org/abstract/document/9984873)
-- X. Wang, E. Rigall, Q. Chen, **S. Zhang** and J. Dong, "Efficient and Stable Cephalometric Landmark Localization Using Two-Stage Heatmaps Regression," in IEEE Transactions on Instrumentation and Measurement, 2022.
+- X. Wang, E. Rigall, Q. Chen, **S. Zhang** and J. Dong, "Efficient and Stable Cephalometric Landmark Localization Using Two-Stage Heatmaps Regression," in IEEE Transactions on Instrumentation and Measurement, vol. 71, PP. 1-162022.
 - E. Rigall, X. Wang, Q. Chen, **S. Zhang** and J. Dong, "An RFID Tag Localization Method Based on Hologram Mask and Discrete Cosine Transform," in IEEE Transactions on Instrumentation and Measurement, vol. 71, pp. 1-12, 2022.
 - J. Sun, H. Yu, G. Zhong, J. Dong, **S. Zhang** and H. Yu, "Random Shapley Forests: Cooperative Game-Based Random Forests With Consistency," in IEEE Transactions on Cybernetics, vol. 52, no. 1, pp. 205-214, Jan. 2022.
 
