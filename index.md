@@ -109,7 +109,7 @@ Shu Zhang is currently an Associate Professor and Postgraduate supervisor at Oce
 
 ### 2020:
 
-- **S. Zhang**, H. Yu, T. Wang, and J. Dong, “Augmented visual feature modelling for matching in low-visibility based on cycle-labelling of Superpixel Flow,” Knowledge-Based Systems, p. 105699, 2020. [_](https://www.sciencedirect.com/science/article/abs/pii/S0950705120301301)
+- **S. Zhang**, H. Yu, T. Wang, and J. Dong, “Augmented visual feature modelling for matching in low-visibility based on cycle-labelling of Superpixel Flow,” Knowledge-Based Systems, vol. 195, p. 105699, 2020. [_](https://www.sciencedirect.com/science/article/abs/pii/S0950705120301301)
 - J. Xu, J. Li, **S. Zhang***, C. Xie, and J. Dong, “Skeleton Guided Conflict-Free Hand Gesture Recognition for Robot Control,” in The 11th International Conference on Awareness Science and Technology, 2020. [_](https://ieeexplore.ieee.org/document/9319483)
 - J. Sun, Z. Wang, H. Yu, **S. Zhang**, Ju. Dong, and P. Gao, “Two-stage deep regression enhanced depth estimation from a single RGB image,” IEEE Transactions on Emerging Topics in Computing, 2020.
 - Z. Shi, Q. Lyu, **S. Zhang**, L. Qi, H. Fan, and J. Dong, “A Visual-SLAM based Line Laser Scanning System using Semantically Segmented Images,” in The 11th International Conference on Awareness Science and Technology, 2020.
@@ -117,7 +117,7 @@ Shu Zhang is currently an Associate Professor and Postgraduate supervisor at Oce
 
 ### 2019:
 
-- T Wang, **S. Zhang***, L. Liu, G. Wu, and J. Dong, “Automatic Facial Paralysis Evaluation Augmented by A Cascaded Encoder Network Structure,” IEEE Access, vol. 7, pp. 135621–135631, 2019. [_](https://ieeexplore.ieee.org/abstract/document/8843901)
+- T. Wang, **S. Zhang***, L. Liu, G. Wu, and J. Dong, “Automatic Facial Paralysis Evaluation Augmented by A Cascaded Encoder Network Structure,” IEEE Access, vol. 7, pp. 135621–135631, 2019. [_](https://ieeexplore.ieee.org/abstract/document/8843901)
 - **S. Zhang**, T. Wang, Y. Peng, and J. Dong, “A Hierarchically Trained Generative Network for Robust Facial Symmetrization,” Technology and Health Care, vol. 27, pp. 217–227, 2019. [_](https://pubmed.ncbi.nlm.nih.gov/31045541/)
 - T. Chen, J. Dong, L. Qi, **S. Zhang**, X. Wang, and Q. Zhao, “Spatial-Temporal Skeleton Feature: An Unit-Level Feature for Temporal Action Proposal Generation,” in 2019 Smart World Congress, 2019.
 - S. Han, X. Sun, J. Dong, **S. Zhang**, and Q. Li, “PhytoGAN: Unpaired Dead-to-Live Phytoplankton Translation,” in 2019 Smart World Congress, 2019.
@@ -199,7 +199,7 @@ As co-author:
 ### Cited by
 > > <sub>citations</sub> | <sub>highest single article citations</sub> 
 > > ------- | ------- 
-> > <sub>1080</sub> | <sub>395</sub> 
+> > <sub>1198</sub> | <sub>430</sub> 
 >
 > <sub>Metrics are evaluated by Google Scholar.</sub>
 
