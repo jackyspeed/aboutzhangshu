@@ -73,6 +73,7 @@ Shu Zhang is currently an Associate Professor and Postgraduate supervisor at Oce
 - Z. Hu, M. Zhang, Z. Song, W. Wang, H. Yu, T. Wang, Q. Cai, **S. Zhang***, “Dynamic Graph Structure-Based Point Cloud Complementation for Real Underwater Scene，” Current Science, Vol. 4, No. 6, 2024. [_](https://currentscience.info/index.php/cs/article/view/279)
 - N. Yi, S. Guo, Q. Lv, T. Wang, **S. Zhang***, J. Dong, "Multi-head Attention Mechanism and Dynamic Semantic Graph Convolution for Facial Action Unit Intensity Estimation," in Proceedings of the 2024 International Conference on Identification, Information and Knowledge in the Internet of Things (IIKI2024), 2024. [_](https://ieeexplore.ieee.org/document/10917537)
 - X. Han, J. Sun, **S. Zhang***, J. Dong, H. Yu, “Sonar-Based Simultaneous Localization and Mapping Using the Semi-Direct Method,” Journal of Marine Science and Engineering, vol. 12, no. 12, 2024. [_](https://www.mdpi.com/2077-1312/12/12/2234)
+- S. Tang, **S. Zhang**, Y. Fang, "HIC-YOLOv5: Improved YOLOv5 for small object detection," in Proceedings of 2024 IEEE international conference on robotics and automation (ICRA2024), 2024. [_](https://ieeexplore.ieee.org/abstract/document/10610273)
 - Q. Lv, Y. Li, J, Dong, S. Chen, H. Yu, H. Zhou, **S. Zhang**, "DomainForensics: Exposing Face Forgery across Domains via Bi-directional Adaptation," IEEE Transactions on Information Forensics and Security, vol. 19, pp. 7275-7289, 2024.
 - C. Si, **S. Zhang***, C. Qing, T. Zhang, M. Zhang, X. Han, J. Dong, "WTCRNet: a wavelet transform and contrastive regularization network for sonar denoising by self-supervision," Intelligent Marine Technology and Systems, vol. 2, no. 17, 2024. [_](https://link.springer.com/article/10.1007/s44295-024-00032-5)
 - X. Wang, E. Rigall, X. An, Z. Li, Q. Cai, **S. Zhang**, J. Dong, "A New Benchmark and Low Computational Cost Localization Method for Cephalometric Analysis," IEEE Transactions on Circuits and Systems for Video Technology, 2024.
@@ -245,6 +246,7 @@ As co-author:
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
 
 
 
