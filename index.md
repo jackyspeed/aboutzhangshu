@@ -201,7 +201,7 @@ As co-author:
 ### Cited by
 > > <sub>citations</sub> | <sub>highest single article citations</sub> 
 > > ------- | ------- 
-> > <sub>1198</sub> | <sub>430</sub> 
+> > <sub>1603</sub> | <sub>498</sub> 
 >
 > <sub>Metrics are evaluated by Google Scholar.</sub>
 
@@ -245,6 +245,7 @@ As co-author:
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
 
 
 
