@@ -66,6 +66,7 @@ Shu Zhang is currently an Associate Professor and Postgraduate supervisor at Oce
 
 - H. Huang, **S. Zhang***, H. Fan, T. Wang, Y. Jing, J. Dong, "Real-time autonomous underwater and aerial exploration with limited FOV sensors," Journal of Real-Time Image Processing, Vol. 22, No. 118, 2025.  [_](https://link.springer.com/article/10.1007/s11554-025-01694-y)  
 - M. Zhang, Z. Hu, T. Zhang, X. Han, Z. Wei, **S. Zhang***, J. Dong, "Learning Neural Implicit Surfaces from Sonar Image based on Signed Distance Functions combined with Occupancy Representation," Expert Systems With Applications, Vol. 270, 2025. [_](https://www.sciencedirect.com/science/article/abs/pii/S0957417425001277)
+- Y. Yang, Y. Liu, E. Rigall, Y. Yin, **S. Zhang**, J. Dong, "Underwater Target 3D Reconstruction via Integrated Laser Triangulation and Multispectral Photometric Stereo," Journal of Marine Science and Engineering, Vol. 13, No. 5, 2025. [_](https://www.mdpi.com/2077-1312/13/5/840)
 
 ### 2024:
 
@@ -244,5 +245,6 @@ As co-author:
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
 
 
